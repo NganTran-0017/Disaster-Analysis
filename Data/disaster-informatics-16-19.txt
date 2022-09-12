@@ -1,0 +1,3049 @@
+
+PMC - PMC6313607
+PMID- 30513946
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 12
+DP  - 2018 Dec
+TI  - Historical Earthquakes and Their Socioeconomic Consequences in China: 1950–2017.
+LID - 2728
+AB  - Understanding the spatiotemporal pattern of historical earthquake disasters and
+      resultant socioeconomic consequences is essential for designing effective
+      disaster risk reduction measures. Based on historical earthquake disaster
+      records, this study compiles a Chinese earthquake disaster catalog (CH-CAT) that 
+      includes records of 722 earthquake disasters that occurred during 1950–2017 in
+      the mainland of China. This catalog includes more complete data records than
+      other existing global earthquake databases for China as a whole. Statistical
+      results demonstrate that the number of earthquake disasters and the resultant
+      direct economic losses (DELs) exhibit significant increasing trends (p < 0.01)
+      over the studied 68-year period. Earthquake-induced deaths vary greatly between
+      individual years and exhibit no significant trend. The Qinghai-Tibet seismic zone
+      is the area with the highest frequency of earthquake disasters and the largest
+      accumulated DELs, whereas the North China seismic zone is associated with the
+      highest number of deaths. Among the 722 earthquake disasters, nearly 99.0% of
+      deaths and 95.0% of DELs are attributable to 1.8% and 3.9% of the earthquake
+      disasters, respectively. Approximately 54.2% of recorded earthquake disasters
+      have earthquake magnitude (Ms) values between 5.0 and 5.9, while earthquake
+      disasters with Ms greater than or equal to 7.0 account for 88.5% of DELs and
+      98.8% of deaths. On average, earthquake-induced DELs and deaths increase
+      nonlinearly with increasing Ms per earthquake. DELs have a positive correlation
+      with deaths and casualties on a logarithmic scale. This study further discusses
+      that during different stages of socioeconomic development, changes in both
+      exposure and vulnerability may be the major factors leading to change differences
+      in earthquake-induced socioeconomic consequences. This study is a beneficial
+      supplement to the global earthquake database and is useful for calibrating global
+      or regional empirical loss models.
+FAU - He, Xin
+AU  - He X
+AD  - Key Laboratory of Environmental Change and Natural Disaster, Ministry of
+      Education, Beijing Normal University, No. 19, Xinjiekouwai Str., Beijing 100875, 
+      China; hxin2017@163.com (X.H.); wclzrdl@163.com (C.W.); yemengqi@mail.bnu.edu.cn 
+      (M.Y.)
+FAU - Wu, Jidong
+AU  - Wu J
+AUID- ORCID: https://orcid.org/0000-0001-8208-8373
+AD  - Key Laboratory of Environmental Change and Natural Disaster, Ministry of
+      Education, Beijing Normal University, No. 19, Xinjiekouwai Str., Beijing 100875, 
+      China; hxin2017@163.com (X.H.); wclzrdl@163.com (C.W.); yemengqi@mail.bnu.edu.cn 
+      (M.Y.)
+FAU - Wang, Cailin
+AU  - Wang C
+AD  - Key Laboratory of Environmental Change and Natural Disaster, Ministry of
+      Education, Beijing Normal University, No. 19, Xinjiekouwai Str., Beijing 100875, 
+      China; hxin2017@163.com (X.H.); wclzrdl@163.com (C.W.); yemengqi@mail.bnu.edu.cn 
+      (M.Y.)
+FAU - Ye, Mengqi
+AU  - Ye M
+AD  - Key Laboratory of Environmental Change and Natural Disaster, Ministry of
+      Education, Beijing Normal University, No. 19, Xinjiekouwai Str., Beijing 100875, 
+      China; hxin2017@163.com (X.H.); wclzrdl@163.com (C.W.); yemengqi@mail.bnu.edu.cn 
+      (M.Y.)
+LA  - eng
+PT  - Journal Article
+DEP - 20181203
+PHST- 2018/10/26 [received]
+PHST- 2018/11/27 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15122728 [doi]
+AID - ijerph-15-02728 [pii]
+SO  - Int J Environ Res Public Health. 2018 Dec;15(12):. Epub 2018 Dec 03
+      doi:10.3390/ijerph15122728.
+
+PMC - PMC6512217
+PMID- 31143802
+IS  - 2277-9531 (Print)
+IS  - 2319-6440 (Electronic)
+VI  - 8
+DP  - 2019
+TI  - The importance of education on disasters and emergencies: A review article.
+LID - 85
+AB  - Disasters and emergencies have been increasing all over the world. Todays, with
+      technological advancement, acquiring knowledge and its application in the realm
+      of action is regarded as the only effective way for prevent disasters or reducing
+      its effects. The present study aimed to review the importance of education and
+      the effect of different methods of education on disaster risk reduction and
+      preparedness in vulnerable people. To this aim, some articles indexed in Database
+      of PubMed, Web of Science, Google Scholar, Scopus, Science Direct, and ProQuest
+      were searched. The search was limited to reviewed articles in English published
+      between 1990 and 2017. In addition, the selected articles were reviewed for
+      relevant citations. The conducted studies were reviewed by two researchers
+      independently. The primary search generated 128 relevant references. After
+      eliminating the duplicates and articles which were not related to the review of
+      the abstract, 41 references were identified for inclusion. After reviewing more, 
+      31 references, which failed to meet inclusion index, were excluded from the
+      study. Disaster education aims to provide knowledge among individuals and groups 
+      to take actions to reduce their vulnerability to disasters. During the last
+      decades, the issue that trained people can be prepared for disasters and
+      responding well has been extensively investigated. Based on the results, disaster
+      education is a functional, operational, and cost-effective tool for risk
+      management. Based on some evidence, it is important for vulnerable people to
+      learn about disasters. There are different methods to educate vulnerable people, 
+      but no method is better than others. Trained people can better protect themselves
+      and others. In this regard, planning and designing comprehensive educational
+      programs are necessary for people to face disasters.
+FAU - Torani, Sogand
+AU  - Torani S
+AD  - Department of Health Services Management, School of Management and Medical
+      Informatics, Iran University of Medical Sciences, Tehran, Iran
+FAU - Majd, Parisa Moradi
+AU  - Majd PM
+AD  - Ph.D. Student in Disasters and Emergencies Health Management, School of
+      Management and Medical Informatics, Iran University of Medical Sciences, Tehran, 
+      Iran
+FAU - Maroufi, Shahnam Sedigh
+AU  - Maroufi SS
+AD  - MSc Anesthesia, PhD Medical Education, Iran University of Medical Sciences,
+      Tehran, Iran
+FAU - Dowlati, Mohsen
+AU  - Dowlati M
+AD  - Ph.D. Student in Disasters and Emergencies Health Management, School of
+      Management and Medical Informatics, Iran University of Medical Sciences, Tehran, 
+      Iran
+FAU - Sheikhi, Rahim Ali
+AU  - Sheikhi RA
+AD  - Ph.D. Student in Disasters and Emergencies Health Management, School of
+      Management and Medical Informatics, Iran University of Medical Sciences, Tehran, 
+      Iran
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190424
+PHST- 2018/08/20 [received]
+PHST- 2018/10/20 [accepted]
+TA  - J Educ Health Promot
+JT  - Journal of Education and Health Promotion
+AID - JEHP-8-85 [pii]
+AID - 10.4103/jehp.jehp_262_18 [doi]
+SO  - J Educ Health Promot. 2019 Apr 24;8:. doi:10.4103/jehp.jehp_262_18.
+
+PMC - PMC5923654
+PMID- 29597243
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 4
+DP  - 2018 Apr
+TI  - Evaluation of an Agricultural Meteorological Disaster Based on Multiple Criterion
+      Decision Making and Evolutionary Algorithm.
+LID - 612
+AB  - The evaluation of a meteorological disaster can be regarded as a
+      multiple-criteria decision making problem because it involves many indexes.
+      Firstly, a comprehensive indexing system for an agricultural meteorological
+      disaster is proposed, which includes the disaster rate, the inundated rate, and
+      the complete loss rate. Following this, the relative weights of the three
+      criteria are acquired using a novel proposed evolutionary algorithm. The proposed
+      algorithm consists of a differential evolution algorithm and an evolution
+      strategy. Finally, a novel evaluation model, based on the proposed algorithm and 
+      the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS),
+      is presented to estimate the agricultural meteorological disaster of 2008 in
+      China. The geographic information system (GIS) technique is employed to depict
+      the disaster. The experimental results demonstrated that the agricultural
+      meteorological disaster of 2008 was very serious, especially in Hunan and Hubei
+      provinces. Some useful suggestions are provided to relieve agriculture
+      meteorological disasters.
+FAU - Yu, Xiaobing
+AU  - Yu X
+AD  - Collaborative Innovation Center on Forecast and Evaluation of Meteorological
+      Disasters, Nanjing University of Information Science & Technology, Nanjing
+      210044, China
+FAU - Yu, Xianrui
+AU  - Yu X
+AD  - School of Management and Engineering, Nanjing University of Information Science &
+      Technology, Nanjing 210044, China; 20171213556@nuist.edu.cn (X.Y.);
+      luyiqun@nuist.edu.cn (Y.L.)
+FAU - Lu, Yiqun
+AU  - Lu Y
+AD  - School of Management and Engineering, Nanjing University of Information Science &
+      Technology, Nanjing 210044, China; 20171213556@nuist.edu.cn (X.Y.);
+      luyiqun@nuist.edu.cn (Y.L.)
+LA  - eng
+PT  - Journal Article
+DEP - 20180328
+PHST- 2018/01/25 [received]
+PHST- 2018/03/20 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15040612 [doi]
+AID - ijerph-15-00612 [pii]
+SO  - Int J Environ Res Public Health. 2018 Apr;15(4):. Epub 2018 Mar 28
+      doi:10.3390/ijerph15040612.
+
+PMC - PMC6639693
+PMID- 31360784
+IS  - 2405-8440 (Electronic)
+VI  - 5
+IP  - 7
+DP  - 2019 Jul
+TI  - The design and psychometric evaluation of the Adolescents' Resilience in Disaster
+      Tool (ARDT-Q37): A mixed method study.
+LID - e02019
+AB  - Adolescent resilience after a disaster has been shown to be a protective factor
+      against loss, trauma, and psychological distress. Its importance for successful
+      disaster recovery is widely accepted by disaster risk management professionals,
+      yet very few tools are available to assess adolescent resilience during an
+      emergency or after a natural disaster has occurred. The aim of this study was to 
+      develop and evaluate the psychometric properties of a questionnaire designed to
+      measure adolescents' resilience before, during or after a natural disaster. This 
+      mixed method study was carried out in three phases involving item generation,
+      systematic review (phase one), qualitative analysis (phase two) and the reduction
+      of items (phase three). The psychometric evaluation of the Adolescents'
+      Resilience in Disaster Tool (ARDT) was conducted using the data from 599 high
+      school students North of Iran (Golestan Province). The initial item pool included
+      80 items that were reduced to 37 after assessment of validity (face, content and 
+      structure) and reliability. Exploratory Factor Analysis found five factors that
+      affect adolescents' resilience which included helping, trusting in God and
+      hopefulness, adaptability, self-confidence and social support. The internal
+      consistency was desirable (α = .86 and ICC = .91; 95% CI: .849 to .948). The
+      psychometric support for the 37-item version of the ARDT in this study indicates 
+      strong support for the ARDT-Q37 as a rapid assessment tool to evaluate resilience
+      in adolescents aged 12–18 years old. Identifying the status of adolescents’
+      resilience and determining their level of need for intervention during and after 
+      a natural disaster is critical for long- and short-term outcomes. Implications
+      for policy makers and professionals involved in the preparedness, response and
+      recovery from natural disasters are discussed.
+FAU - Mohammadinia, Leila
+AU  - Mohammadinia L
+AD  - Department of Disaster Public Health, School of Public Health, Tehran University 
+      of Medical Sciences, Tehran, Iran
+FAU - Ebadi, Abbas
+AU  - Ebadi A
+AD  - Behavioral Sciences Research Center, Life Style Institute and Faculty of Nursing,
+      Baqiyatallah University of Medical Sciences, Tehran, Iran
+FAU - Malekafzali, Hossein
+AU  - Malekafzali H
+AD  - Permanent Member of Iranian Academy of Medical Sciences, Tehran, Iran
+FAU - Allen, Kelly A.
+AU  - Allen KA
+AD  - Educational Psychology and Inclusive Education, The Faculty of Education, Monash 
+      University, Australia
+FAU - Sharif Nia, Hamid
+AU  - Sharif Nia H
+AD  - Amol Faculty of Nursing and Midwifery, Mazandaran University of Medical Sciences,
+      Sari, Iran
+LA  - eng
+PT  - Journal Article
+DEP - 20190717
+PHST- 2019/01/28 [received]
+PHST- 2019/04/07 [revised]
+PHST- 2019/06/27 [accepted]
+TA  - Heliyon
+JT  - Heliyon
+AID - S2405-8440(19)35679-8 [pii]
+AID - 10.1016/j.heliyon.2019.e02019 [doi]
+AID - e02019 [pii]
+SO  - Heliyon. 2019 Jul 17;5(7):. doi:10.1016/j.heliyon.2019.e02019.
+
+PMC - PMC5675965
+PMID- 29123602
+IS  - 1920-8642 (Print)
+VI  - 8
+IP  - 4
+DP  - 2017
+TI  - Rehabilitation of vulnerable groups in emergencies and disasters: A systematic
+      review.
+PG  - 253-63
+AB  - BACKGROUND:: Natural and man-made disasters, especially those occurring in large 
+      scales not only result in human mortality, but also cause physical,
+      psychological, and social disabilities. Providing effective rehabilitation
+      services in time can decrease the frequency of such disabilities. The aim of the 
+      current study was to perform a systematic review related to rehabilitation of
+      vulnerable groups in emergencies and disasters. METHODS:: The systematic review
+      was conducted according to the preferred reporting items for systematic reviews
+      and meta-analyses (PRISMA) guidelines. The key words “recovery”,
+      “rehabilitation”, “reconstruction”, “transformation”, “transition”, “emergency”, 
+      “disaster”, “crisis”, “hazard”, “catastrophe”, “tragedy”, “mass casualty
+      incident”, “women”, “female”, “children”, “pediatric”, “disable”, “handicap”,
+      “elder”, “old” and “vulnerable” were used in combination with Boolean operators
+      OR and AND. ISI Web of Science, PubMed, Scopus, Science Direct, Ovid, ProQuest,
+      Wiley, Google Scholar were searched. RESULTS:: In this study a total of 11 928
+      articles were considered and 25 articles were selected for final review of
+      rehabilitation of vulnerable groups based on the objective of this study.
+      Twenty-five studies including six qualitative, sixteen cross-sectional and three 
+      randomized controlled trials were reviewed for rehabilitation of vulnerable
+      groups in emergencies and disasters. Out of the selected papers, 23 were studied 
+      based on rehabilitation after natural disasters and the remaining were man-made
+      disasters. Most types of rehabilitation were physical, social, psychological and 
+      economic. CONCLUSION:: The review of the papers showed different programs of
+      physical, physiological, economic and social rehabilitations for vulnerable
+      groups after emergencies and disasters. It may help health field managers better 
+      implement standard rehabilitation activities for vulnerable groups.
+FAU - Sheikhbardsiri, Hojjat
+AU  - Sheikhbardsiri H
+AD  - Department of Emergency Operation Center (EOC), Disasters and Emergencies
+      Management Center, Kerman University of Medical Sciences, Kerman, Iran
+FAU - Yarmohammadian, Mohammad H.
+AU  - Yarmohammadian MH
+AD  - Health Management and Economics Research Center, Faculty of Management and
+      Medical Informatics, Isfahan University of Medical Sciences, Isfahan, Iran
+FAU - Rezaei, Fatemeh
+AU  - Rezaei F
+AD  - Health Management and Economics Research Center, Faculty of Management and
+      Medical Informatics, Isfahan University of Medical Sciences, Isfahan, Iran
+FAU - Maracy, Mohammad Reza
+AU  - Maracy MR
+AD  - Department of Epidemiology & Biostatistics, School of Public Health, Isfahan
+      University of Medical Sciences, Isfahan, Iran
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PHST- 2016/12/12 [received]
+PHST- 2017/07/09 [accepted]
+TA  - World J Emerg Med
+JT  - World Journal of Emergency Medicine
+AID - WJEM-8-253 [pii]
+AID - 10.5847/wjem.j.1920-8642.2017.04.002 [doi]
+SO  - World J Emerg Med. 2017;8(4):253-63. doi:10.5847/wjem.j.1920-8642.2017.04.002.
+
+PMC - PMC6005742
+PMID- 29631191
+IS  - 0022-3956 (Print)
+IS  - 1879-1379 (Electronic)
+VI  - 102
+DP  - 2018 Jul
+TI  - Prevalence and predictors of postdisaster major depression: convergence of
+      evidence from 11 disaster studies using consistent methods.
+PG  - 96-101
+AB  - The objective of this study was to examine predictors of postdisaster major
+      depression in two separate datasets of survivors of various disasters.
+      Postdisaster major depression was examined in two disaster databases using
+      consistent research methodology, permitting combination of databases into a
+      combined dataset including 1,181 survivors of 11 disasters representing all major
+      disaster typologies with full diagnostic assessment using structured diagnostic
+      interviews from two databases. The first database includes 808 directly-exposed
+      survivors of 10 disasters. The second includes 373 survivors of the September 11,
+      2001 attacks on New York City’s World Trade Center, recruited from employees of
+      eight organizations affected by the disaster. This rich dataset permitted
+      comparison of predictors of postdisaster major depression between databases and
+      across survivors of different disasters. Identical models applied to both
+      databases found postdisaster major depression to be independently associated with
+      pre-existing major depression, indirect exposure to disaster trauma through
+      family/friends, and disaster-related PTSD. In a final model limited to
+      directly-exposed disaster across both databases, postdisaster major depression
+      was independently associated with terrorism in addition to the 3 variables that
+      predicted postdisaster major depression in the two separate databases.
+      Replication of findings from one model to the next across different types of
+      disasters and populations in this study suggests that these three variables could
+      potentially provide a powerful tool for estimating likelihood of postdisaster
+      major depression.
+FAU - North, Carol S.
+AU  - North CS
+AD  - The Altshuler Center for Education & Research at Metrocare Services and
+      Department of Psychiatry, The University of Texas Southwestern Medical Center,
+      Dallas, TX, USA
+FAU - Baron, David
+AU  - Baron D
+AD  - Department of Psychiatry, Keck School of Medicine, Los Angeles, CA, USA
+FAU - Chen, Anthony F.
+AU  - Chen AF
+AD  - Department of Psychiatry, Keck School of Medicine, Los Angeles, CA, USA
+LA  - eng
+PT  - Journal Article
+DEP - 20171225
+TA  - J Psychiatr Res
+JT  - Journal of psychiatric research
+AID - 10.1016/j.jpsychires.2017.12.013 [doi]
+MID - NIHMS958105
+SO  - J Psychiatr Res. 2018 Jul;102:96-101. Epub 2017 Dec 25
+      doi:10.1016/j.jpsychires.2017.12.013.
+
+PMC - PMC5708046
+PMID- 29149064
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 14
+IP  - 11
+DP  - 2017 Nov
+TI  - Who Participates in the Great ShakeOut? Why Audience Segmentation Is the Future
+      of Disaster Preparedness Campaigns.
+LID - 1407
+AB  - Background: In 2008, the Southern California Earthquake Center in collaboration
+      with the U.S. Geological Survey Earthquake Hazards Program launched the first
+      annual Great ShakeOut, the largest earthquake preparedness drill in the history
+      of the United States. Materials and Methods: We collected online survey data from
+      2052 campaign registrants to assess how people participated, whether audience
+      segments shared behavioral patterns, and whether these segments were associated
+      with five social cognitive factors targeted by the ShakeOut campaign. Results:
+      Participants clustered into four behavioral patterns. The Minimal cluster had low
+      participation in all activities (range: 0–39% participation). The Basic Drill
+      cluster only participated in the drop, cover and hold drill (100% participation).
+      The Community-Oriented cluster, involved in the drill (100%) and other
+      interpersonal activities including attending disaster planning meetings (74%),
+      was positively associated with interpersonal communication (β = 0.169),
+      self-efficacy (β = 0.118), outcome efficacy (β = 0.110), and knowledge about
+      disaster preparedness (β = 0.151). The Interactive and Games cluster, which
+      participated in the drill (79%) and two online earthquake preparedness games (53%
+      and 75%), was positively associated with all five social cognitive factors
+      studied. Conclusions: Our results support audience segmentation approaches to
+      engaging the public, which address the strengths and weaknesses of different
+      segments. Offering games may help “gamers” gain competencies required to prepare 
+      for disasters. Targeting the highly active Community-Oriented cluster for
+      leadership roles could help build community resilience by encouraging others to
+      become more involved in disaster planning. We propose that the days of single,
+      national education campaigns without local variation should end.
+FAU - Adams, Rachel M.
+AU  - Adams RM
+AD  - Center for Public Health and Disasters, Fielding School of Public Health,
+      University of California at Los Angeles, Los Angeles, CA 90095, USA;
+      rachelad@ucla.edu (R.M.A.); deisenman@mednet.ucla.edu (D.P.E.)
+FAU - Karlin, Beth
+AU  - Karlin B
+AD  - The Norman Lear Center, Annenberg School for Communication and Journalism,
+      University of Southern California, Los Angeles, CA 90089, USA;
+      bethkarlin@gmail.com (B.K.); blakley@usc.edu (J.B.)
+FAU - Eisenman, David P.
+AU  - Eisenman DP
+AD  - Center for Public Health and Disasters, Fielding School of Public Health,
+      University of California at Los Angeles, Los Angeles, CA 90095, USA;
+      rachelad@ucla.edu (R.M.A.); deisenman@mednet.ucla.edu (D.P.E.)
+FAU - Blakley, Johanna
+AU  - Blakley J
+AD  - The Norman Lear Center, Annenberg School for Communication and Journalism,
+      University of Southern California, Los Angeles, CA 90089, USA;
+      bethkarlin@gmail.com (B.K.); blakley@usc.edu (J.B.)
+FAU - Glik, Deborah
+AU  - Glik D
+AD  - Center for Public Health and Disasters, Fielding School of Public Health,
+      University of California at Los Angeles, Los Angeles, CA 90095, USA;
+      rachelad@ucla.edu (R.M.A.); deisenman@mednet.ucla.edu (D.P.E.)
+LA  - eng
+PT  - Journal Article
+DEP - 20171117
+PHST- 2017/10/21 [received]
+PHST- 2017/11/15 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph14111407 [doi]
+AID - ijerph-14-01407 [pii]
+SO  - Int J Environ Res Public Health. 2017 Nov;14(11):. Epub 2017 Nov 17
+      doi:10.3390/ijerph14111407.
+
+PMC - PMC5498711
+PMID- 28713518
+IS  - 2008-5842 (Electronic)
+VI  - 9
+IP  - 5
+DP  - 2017 May
+TI  - Examining non-structural retrofitting status of teaching hospitals in Kerman
+      against disasters.
+PG  - 4434-9
+AB  - Background and objective: Continuous services provision of a hospital before and 
+      after a disaster is one of the most prominent issues that all people, especially 
+      the authorities must take into huge consideration. Concerning the experiences of 
+      previous earthquakes, the role and importance of nonstructural components becomes
+      increasingly clear in the uninterrupted services of hospitals. In this study,
+      non-structural retrofitting status of Kerman teaching hospitals was evaluated
+      against natural disasters. Methods: This cross-sectional study was carried out in
+      the second half of 2014 on the teaching hospitals in Kerman (Iran). The study
+      population consisted of all Kerman teaching hospitals. The research instrument
+      was World Health Organization/Pan American Health Organization (WHO/PAHO)
+      standard checklist. Data analysis was carried out using descriptive statistics
+      through SPSS 19. Results: One hospital had a low retrofitting level, two
+      hospitals had an average level and one had a high level. In the examined
+      hospitals in this study, the medical gas section had the lowest preparedness
+      against natural disasters, while the office, warehouse and furniture section had 
+      the highest resistance. Generally, the non-structural retrofitting status was 50%
+      in one hospital and was between 65% and 85% in other hospitals. Conclusions:
+      Generally, the retrofitting status of hospitals was not at the ideal condition,
+      most hospitals were in average condition. Concerning the high risk of hospitals
+      in disasters, it is necessary that senior executives and managers of Kerman
+      Province and Kerman University of Medical Sciences take some measures to retrofit
+      these buildings and to reduce the risk of vulnerability.
+FAU - Moghadam, Mahmood Nekooi
+AU  - Moghadam MN
+AD  - Ph.D. of Health Services Management, Professor, Modeling in Health Research
+      Center, Institute for Futures Studies in Health, Kerman University of Medical
+      Sciences, Kerman, Iran
+FAU - Moradi, Seyed Mobin
+AU  - Moradi SM
+AD  - Ph.D. Student in Health in Emergency and Disasters, Environmental Health
+      Engineering Research Center, Kerman University of Medical Sciences, Kerman, Iran
+FAU - Amiresmaili, Mohammadreza
+AU  - Amiresmaili M
+AD  - Ph.D. of Health Services Management, Associate Professor, Medical Informatics
+      Research Center, Institute for Futures Studies in Health, Kerman University of
+      Medical Sciences, Kerman, Iran
+LA  - eng
+PT  - Journal Article
+DEP - 20170525
+PHST- 2016/05/22 [received]
+PHST- 2016/08/07 [accepted]
+TA  - Electron Physician
+JT  - Electronic Physician
+AID - 10.19082/4434 [doi]
+AID - epj-09-4434 [pii]
+SO  - Electron Physician. 2017 May 25;9(5):4434-9. doi:10.19082/4434.
+
+PMC - PMC5325668
+PMID- 28286700
+IS  - 2157-3999 (Electronic)
+VI  - 9
+TI  - Women’s Challenges and Capabilities in Disasters: A Case Report of the Twin
+      Earthquakes of Eastern Azerbaijan, Iran.
+LID - ecurrents.dis.2cff3d6e9e0c3a597f873bf29e712370
+AB  - Introduction: The twin earthquakes of eastern Azerbaijan induced considerable
+      devastations of many villages and cities. About 70% of all victims were women and
+      children. The present case report was aimed at describing the lessons learnt from
+      both capabilities and challenges of girls and women after the twin earthquakes of
+      eastern Azerbaijan.Methods: A qualitative approach using in-depth unstructured
+      interviews was used for this study. A total of 13 participants (two men and 11
+      women), affected by the quakes, were interviewed applying the purposeful sampling
+      method. A manifest content analysis was performed for analyzing the transcribed
+      interviewsCase presentation: Two categories of women’s capabilities and
+      challenges and four subcategories of women’s participation in community
+      reconstruction, livelihood efforts, aggravated poverty and violence were
+      extracted from the data which were gathered in the destroyed fields of eastern
+      Azerbaijan.Lessons learnt: Women can play an important role in post-disaster
+      recovery. Consequently, ignoring the challenges and capabilities of women may
+      impede post-disaster development processes, which would adversely affect the
+      whole community.
+FAU - Sohrabizadeh, Sanaz
+AU  - Sohrabizadeh S
+AD  - Department of Health in Disasters and Emergencies, School of Health, Safety and
+      Environment, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+FAU - Jahangiri, Katayoun
+AU  - Jahangiri K
+AD  - Associate Professor in School of Health, Safety and EnvironmentShahid Beheshti
+      University of Medical Sciences
+FAU - Jazani, Reza Khani
+AU  - Jazani RK
+AD  - Shahid Beheshti University of Medical Sciences
+FAU - Babaie, Javad
+AU  - Babaie J
+AD  - Department of Health Services Management, School of Management and Medical
+      Informatics, Tabriz University of Medical Sciences, Tabriz, Iran; Iranian Center 
+      of Excellence in Health Management, School of Management and Medical Informatics,
+      Tabriz University of Medical Sciences, Tabriz, Iran
+FAU - Moradian, Mohammad Javad
+AU  - Moradian MJ
+AD  - Department of Disaster Public Health, School of Public Health, Tehran University 
+      of Medical Sciences, Tehran, Iran; Trauma Research Center, Shahid Rajaee (Emtiaz)
+      Trauma Hospital, Shiraz University of Medical Sciences, Shiraz, Iran
+FAU - Rastegarfar, Behnaz
+AU  - Rastegarfar B
+AD  - Dept. of Disaster and Emergency Health, I.R.Iran’s National Institute of Health
+      Research, Tehran University of Medical Sciencesnational institute of health
+      research
+LA  - eng
+PT  - Journal Article
+DEP - 20170222
+TA  - PLoS Curr
+JT  - PLoS Currents
+AID - 10.1371/currents.dis.2cff3d6e9e0c3a597f873bf29e712370 [doi]
+SO  - PLoS Curr. ;9:. doi:10.1371/currents.dis.2cff3d6e9e0c3a597f873bf29e712370.
+
+PMC - PMC6475032
+PMID- 31086801
+IS  - 2322-2220 (Print)
+IS  - 2322-3561 (Electronic)
+VI  - 7
+IP  - 2
+DP  - 2019 Apr
+TI  - Needs Assessment for Standardized Educational Program for Iranian Medical
+      Students in Crisis and Disaster Management .
+PG  - 95-102
+AB  - Introduction:: Early education and training are mandatory to raise the knowledge 
+      and awareness of the healthcare staff. Iran is a disaster prone area with a high 
+      number of emergencies. This study aimed to assess the need for disaster and
+      emergency management education for Iranian medical students. Methods:: Using
+      two-round Delphi technique in 2017, 15 experts within the field of disaster and
+      emergency management were asked for their opinions concerning the education
+      required for Iranian medical students. Highly important educational domains and
+      their sub-domains selected with an agreement of above 70-80% were prioritized by 
+      AHP technique. Results:: Of 41 identified and prioritized educational subjects,
+      four main groups were obtained: 1) crisis and disaster primary concepts, 2)
+      disease control skills, 3) management skills, and 4) medical care skills. The
+      medical care skills had the highest priority (with a weight of 0.546), compared
+      to other areas after the final analysis. Conclusion:: Different areas of
+      competency are needed to raise awareness and preparedness in medical students in 
+      combating crisis and disasters. We propose a curriculum for Iranian medical
+      students and suggest it to be used for other professionals, who are involved in
+      the process of disaster management.
+FAU - REZAEE, RITA
+AU  - REZAEE R
+AD  - Health Human Resource Development Research Center, Department of Health
+      Information Management, School of Management and Medical Informatics, Shiraz
+      University of Medical Sciences, Shiraz, Iran;
+FAU - PEYRAVI, MAHMOUDREZA
+AU  - PEYRAVI M
+AD  - Department of Health in Disasters and Emergencies, Health Human Resources
+      Research Center, School of Management and Medical Informatics, Shiraz University 
+      of Medical Sciences, Shiraz, Iran;
+FAU - AHMADI MARZALEH, MILAD
+AU  - AHMADI MARZALEH M
+AD  - Student Research Committee, Department of Health in Disasters and Emergencies,
+      Health Human Resources Research Center, School of Management and Medical
+      Informatics, Shiraz University of Medical Sciences, Shiraz, Iran;
+FAU - KHORRAM-MANESH, AMIR
+AU  - KHORRAM-MANESH A
+AD  - Unit of Security and Preparedness, Department of Surgery, Institute of Clinical
+      Sciences, Sahlgrenska Academy, University of Gothenburg, Sweden; ˆThe two authors
+      have had the same contribution and both are as the first author
+LA  - eng
+PT  - Journal Article
+PHST- 2019/02/13 [accepted]
+PHST- 2018/07/21 [received]
+TA  - J Adv Med Educ Prof
+JT  - Journal of Advances in Medical Education & Professionalism
+AID - JAMP-7-2 [pii]
+AID - 10.30476/JAMP.2019.44713 [doi]
+SO  - J Adv Med Educ Prof. 2019 Apr;7(2):95-102. doi:10.30476/JAMP.2019.44713.
+
+PMC - PMC6500363
+PMID- 30948605
+IS  - 2044-6055 (Electronic)
+VI  - 9
+IP  - 4
+DP  - 2019
+TI  - Exploring the impact, response and preparedness to water-related natural
+      disasters in the Barisal division of Bangladesh: a mixed methods study.
+LID - e026459
+AB  - Objectives: To investigate the impact of natural disasters on communities in the 
+      Barisal division of Bangladesh, exploring community approaches to disaster
+      preparedness and mitigation. Setting: Communities in all districts of the Barisal
+      division of Bangladesh. Participants: Quantitative data were collected through a 
+      cross-sectional household survey (n=9263 households; n=38 981 individuals).
+      Qualitative data were collected through in-depth interviews (n=7) and focus group
+      discussions (n=23) with key informants. Outcome measures: Quantitative research
+      recorded features of natural disaster events from the previous 5 years,
+      documenting risk factors that increase vulnerability to disaster, use of disaster
+      warning systems and evacuation processes. Qualitative research investigated
+      disaster risk perceptions, experiences during and following disaster, and
+      disaster preparedness practices. Results: The survey response rate was 94.7%.
+      Exposure to disaster in the last 5 years was high (82%) with flooding and
+      cyclones considered the greatest threats. Awareness of evacuation processes was
+      low; and only 19% of respondents evacuated their homes at the time of disaster.
+      Drowning during disaster was the primary concern (87%), followed by debt,
+      livestock and crop loss (78%). The qualitative findings indicated prevailing
+      fatalistic perceptions towards natural disasters among community. The
+      consequences of disasters included significant loss of livelihoods and exposure
+      to infections due to poor sanitation. There was also insufficient support for the
+      most vulnerable, particularly women, children and the elderly. Although several
+      community preparedness and practices existed, there was a lack of response to
+      early warning systems. Barriers to disaster response and resilience included
+      financial insecurities, loss of livelihoods and cultural concerns regarding
+      women’s privacy. Conclusions: Critical to achieving disaster resilience is
+      increased government investment in infrastructure and systems-level responses
+      that empower communities. Further research can support this by addressing
+      community challenges to promoting disaster resilience and how to leverage
+      existing community strengths to implement locally owned solutions.
+FAU - Jagnoor, Jagnoor
+AU  - Jagnoor J
+AUID- ORCID: 0000-0002-5276-9095
+AD  - Injury Division, The George Institute for Global Health, Sydney, Australia
+FAU - Rahman, Aminur
+AU  - Rahman A
+AD  - International Drowning Research Centre, Centre for Injury Prevention and Research
+      Bangladesh, Dhaka, Bangladesh
+FAU - Cullen, Patricia
+AU  - Cullen P
+AD  - Injury Division, The George Institute for Global Health, Sydney, Australia
+FAU - Chowdhury, Fazlul Kader
+AU  - Chowdhury FK
+AD  - International Drowning Research Centre, Centre for Injury Prevention and Research
+      Bangladesh, Dhaka, Bangladesh
+FAU - Lukaszyk, Caroline
+AU  - Lukaszyk C
+AD  - Injury Division, The George Institute for Global Health, Sydney, Australia
+FAU - Baset, Kamran ul
+AU  - Baset Ku
+AD  - International Drowning Research Centre, Centre for Injury Prevention and Research
+      Bangladesh, Dhaka, Bangladesh
+FAU - Ivers, Rebecca
+AU  - Ivers R
+AD  - School of Public Health and Community Medicine, University of New South Wales,
+      Sydney, New South Wales, Australia
+LA  - eng
+PT  - Journal Article
+DEP - 20190404
+PHST- 2018/09/10 [received]
+PHST- 2019/01/17 [revised]
+PHST- 2019/01/29 [accepted]
+TA  - BMJ Open
+JT  - BMJ Open
+AID - bmjopen-2018-026459 [pii]
+AID - 10.1136/bmjopen-2018-026459 [doi]
+SO  - BMJ Open. 2019 Apr 4;9(4):. doi:10.1136/bmjopen-2018-026459.
+
+PMC - PMC6262190
+PMID- 30505255
+IS  - 1011-8934 (Print)
+IS  - 1598-6357 (Electronic)
+VI  - 33
+IP  - 49
+DP  - 2018 Dec 03
+TI  - Estimation of the National Burden of Disease and Vulnerable Population Associated
+      with Natural Disasters in Korea: Heavy Precipitation and Typhoon.
+LID - e314
+AB  - Background: Despite its growing significance, studies on the burden of disease
+      associated with natural disasters from the perspective of public health were few.
+      This study aimed at estimating the national burden of disease associated with
+      typhoons and torrential rains in Korea. Methods: During the period of 2002–2012, 
+      11 typhoons and five torrential rains were selected. Mortality and morbidities
+      were defined as accentual death, injury and injury-related infection, and mental 
+      health. Their incidences were estimated from National Health Insurance Service.
+      Case-crossover design was used to define the disaster-related excess mortality
+      and morbidity. Disability-adjusted life years (DALYs) were directly assessed from
+      excess mortality and morbidity. Results: The burden of disease from typhoons
+      increased with the intensity, with 107.7, 30.6, and 36.6 DALYs per 100,000 per
+      event for strong, moderate, and weak typhoons, respectively. Burden of disease
+      from torrential rains were 56.9, 52.8, and 26.4 DALYs per 100,000 per event for
+      strong, moderate, and weak episodes, respectively. Mental disorders contributed
+      more years lived with disability (YLDs) than did injuries in most cases, but the 
+      injury-induced YLDs associated with strong typhoon and torrential rain were
+      higher than those of lower-intensity. The elderly was the most vulnerable to most
+      types of disaster and storm intensities, and males younger than 65 years were
+      more vulnerable to a strong torrential rain event. Conclusion: The intensity of
+      torrential rain or typhoon was the strongest determinant of the burden of disease
+      from natural disasters in Korea. Population vulnerable may vary depending on the 
+      nature and strength of the disasters.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Han, Hyun-Jin
+AU  - Han HJ
+AUID- ORCID: https://orcid.org/0000-0002-2760-2429
+AD  - Graduate School of Public Health, Seoul National University, Seoul, Korea.
+FAU - Kim, Jong-Hun
+AU  - Kim JH
+AUID- ORCID: https://orcid.org/0000-0002-4974-5180
+AD  - Department of Social and Preventive Medicine, Sungkyunkwan University School of
+      Medicine, Suwon, Korea.
+FAU - Chung, Soo-Eun
+AU  - Chung SE
+AUID- ORCID: https://orcid.org/0000-0001-8945-7784
+AD  - Department of Social and Preventive Medicine, Sungkyunkwan University School of
+      Medicine, Suwon, Korea.
+FAU - Park, Jae-Hyun
+AU  - Park JH
+AUID- ORCID: https://orcid.org/0000-0001-5860-7487
+AD  - Department of Social and Preventive Medicine, Sungkyunkwan University School of
+      Medicine, Suwon, Korea.
+FAU - Cheong, Hae-Kwan
+AU  - Cheong HK
+AUID- ORCID: https://orcid.org/0000-0003-2758-9399
+AD  - Department of Social and Preventive Medicine, Sungkyunkwan University School of
+      Medicine, Suwon, Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20181114
+GR  - Policy #14-35
+PHST- 2017/12/15 [received]
+PHST- 2018/08/10 [accepted]
+TA  - J Korean Med Sci
+JT  - Journal of Korean Medical Science
+AID - 10.3346/jkms.2018.33.e314 [doi]
+SO  - J Korean Med Sci. 2018 Nov 14;33(49):. doi:10.3346/jkms.2018.33.e314.
+
+PMC - PMC5219808
+PMID- 28061835
+IS  - 1471-2458 (Electronic)
+VI  - 17
+DP  - 2017
+TI  - A comparative assessment of major international disasters: the need for exposure 
+      assessment, systematic emergency preparedness, and lifetime health care.
+LID - 46
+AB  - Background: The disasters at Seveso, Three Mile Island, Bhopal, Chernobyl, the
+      World Trade Center (WTC) and Fukushima had historic health and economic sequelae 
+      for large populations of workers, responders and community members. Methods:
+      Comparative data from these events were collected to derive indications for
+      future preparedness. Information from the primary sources and a literature review
+      addressed: i) exposure assessment; ii) exposed populations; iii) health
+      surveillance; iv) follow-up and research outputs; v) observed physical and mental
+      health effects; vi) treatment and benefits; and vii) outreach activities.
+      Results: Exposure assessment was conducted in Seveso, Chernobyl and Fukushima,
+      although none benefited from a timely or systematic strategy, yielding immediate 
+      and sequential measurements after the disaster. Identification of exposed
+      subjects was overall underestimated. Health surveillance, treatment and follow-up
+      research were implemented in Seveso, Chernobyl, Fukushima, and at the WTC, mostly
+      focusing on the workers and responders, and to a lesser extent on residents.
+      Exposure-related physical and mental health consequences were identified,
+      indicating the need for a long-term health care of the affected populations.
+      Fukushima has generated the largest scientific output so far, followed by the
+      WTCHP and Chernobyl. Benefits programs and active outreach figured prominently in
+      only the WTC Health Program. The analysis of these programs yielded the following
+      lessons: 1) Know who was there; 2) Have public health input to the disaster
+      response; 3) Collect health and needs data rapidly; 4) Take care of the affected;
+      5) Emergency preparedness; 6) Data driven, needs assessment, advocacy.
+      Conclusions: Given the long-lasting health consequences of natural and man-made
+      disasters, health surveillance and treatment programs are critical for management
+      of health conditions, and emergency preparedness plans are needed to prevent or
+      minimize the impact of future threats.
+FAU - Lucchini, Roberto G.
+AU  - Lucchini RG
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+FAU - Hashim, Dana
+AU  - Hashim D
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+FAU - Acquilla, Sushma
+AU  - Acquilla S
+AD  - Imperial College London, London, UK
+FAU - Basanets, Angela
+AU  - Basanets A
+AD  - National Academy of Medical Sciences, Kiev, Ukraine
+FAU - Bertazzi, Pier Alberto
+AU  - Bertazzi PA
+AD  - University of Milan, Milan, Italy
+FAU - Bushmanov, Andrey
+AU  - Bushmanov A
+AD  - Federal Medical Biophysical Center, Moscow, Russia
+FAU - Crane, Michael
+AU  - Crane M
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+FAU - Harrison, Denise J.
+AU  - Harrison DJ
+AD  - New York University, New York, USA
+FAU - Holden, William
+AU  - Holden W
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+FAU - Landrigan, Philip J.
+AU  - Landrigan PJ
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+FAU - Luft, Benjamin J.
+AU  - Luft BJ
+AD  - Stony Brook University Medical Center, Stony Brook, NY USA
+FAU - Mocarelli, Paolo
+AU  - Mocarelli P
+AD  - University Milano-Bicocca, Milan, Italy
+FAU - Mazitova, Nailya
+AU  - Mazitova N
+AD  - Federal Medical Biophysical Center, Moscow, Russia
+FAU - Melius, James
+AU  - Melius J
+AD  - New York State Laborers’ Health and Safety Trust Fund, New York, NY USA
+FAU - Moline, Jacqueline M.
+AU  - Moline JM
+AD  - Hofstra North Shore-LIJ School of Medicine at Hofstra University, Hempstead, NY
+      USA
+FAU - Mori, Koji
+AU  - Mori K
+AD  - University of Occupational and Environmental Health, Kitakyushu, Japan
+FAU - Prezant, David
+AU  - Prezant D
+AD  - New York City Fire Department, Brooklyn, NY USA
+FAU - Reibman, Joan
+AU  - Reibman J
+AD  - New York University School of Medicine, New York, NY USA
+FAU - Reissman, Dori B.
+AU  - Reissman DB
+AD  - National Institute for Occupational Safety and Health, Atlanta, Georgia USA
+FAU - Stazharau, Alexander
+AU  - Stazharau A
+AD  - Belarus National Commission on Radiation Protection, Minsk, Belarus
+FAU - Takahashi, Ken
+AU  - Takahashi K
+AD  - University of Occupational and Environmental Health, Kitakyushu, Japan
+FAU - Udasin, Iris G.
+AU  - Udasin IG
+AD  - Robert Wood Johnson Medical Center, Piscataway, NJ USA
+FAU - Todd, Andrew C.
+AU  - Todd AC
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY USA
+LA  - eng
+PT  - Journal Article
+DEP - 20170107
+GR  - 200-2011-39391
+PHST- 2016/08/13 [received]
+PHST- 2016/12/13 [accepted]
+TA  - BMC Public Health
+JT  - BMC Public Health
+AID - 3939 [pii]
+AID - 10.1186/s12889-016-3939-3 [doi]
+SO  - BMC Public Health. 2017 Jan 7;17:. doi:10.1186/s12889-016-3939-3.
+
+PMC - PMC6211036
+PMID- 30336558
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 10
+DP  - 2018 Oct
+TI  - Spatio-Temporal Distribution of Negative Emotions in New York City After a
+      Natural Disaster as Seen in Social Media.
+LID - 2275
+AB  - Disasters have substantial consequences for population mental health. We used
+      Twitter to (1) extract negative emotions indicating discomfort in New York City
+      (NYC) before, during, and after Superstorm Sandy in 2012. We further aimed to (2)
+      identify whether pre- or peri-disaster discomfort were associated with peri- or
+      post-disaster discomfort, respectively, and to (3) assess geographic variation in
+      discomfort across NYC census tracts over time. Our sample consisted of 1,018,140 
+      geo-located tweets that were analyzed with an advanced sentiment analysis called 
+      ”Extracting the Meaning Of Terse Information in a Visualization of Emotion”
+      (EMOTIVE). We calculated discomfort rates for 2137 NYC census tracts, applied
+      spatial regimes regression to find associations of discomfort, and used Moran’s I
+      for spatial cluster detection across NYC boroughs over time. We found increased
+      discomfort, that is, bundled negative emotions after the storm as compared to
+      during the storm. Furthermore, pre- and peri-disaster discomfort was positively
+      associated with post-disaster discomfort; however, this association was different
+      across boroughs, with significant associations only in Manhattan, the Bronx, and 
+      Queens. In addition, rates were most prominently spatially clustered in Staten
+      Island lasting pre- to post-disaster. This is the first study that determined
+      significant associations of negative emotional responses found in social media
+      posts over space and time in the context of a natural disaster, which may guide
+      us in identifying those areas and populations mostly in need for care.
+FAU - Gruebner, Oliver
+AU  - Gruebner O
+AUID- ORCID: https://orcid.org/0000-0001-9783-4770
+AD  - Department of Geography, Humboldt-Universität zu Berlin, Berlin 10099, Germany
+FAU - Lowe, Sarah R.
+AU  - Lowe SR
+AD  - Department of Psychology, Montclair State University, Montclair, NJ 07043, USA;
+      lowes@mail.montclair.edu
+FAU - Sykora, Martin
+AU  - Sykora M
+AUID- ORCID: https://orcid.org/0000-0002-5363-5857
+AD  - Centre for Information Management (CIM), School of Business and Economics (SBE), 
+      Loughborough University, Loughborough LE11 3TU, UK; M.D.Sykora@lboro.ac.uk
+FAU - Shankardass, Ketan
+AU  - Shankardass K
+AD  - Department of Health Sciences, Wilfrid Laurier University, Waterloo, ON M5B 1W8, 
+      Canada; ketan.shankardass@gmail.com
+FAU - Subramanian, SV
+AU  - Subramanian S
+AD  - Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public 
+      Health, Boston, MA 02115, USA; svsubram@hsph.harvard.edu
+FAU - Galea, Sandro
+AU  - Galea S
+AD  - School of Public Health, Boston University, Boston, MA 02118, USA; sgalea@bu.edu
+LA  - eng
+PT  - Journal Article
+DEP - 20181017
+PHST- 2018/09/07 [received]
+PHST- 2018/10/12 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15102275 [doi]
+AID - ijerph-15-02275 [pii]
+SO  - Int J Environ Res Public Health. 2018 Oct;15(10):. Epub 2018 Oct 17
+      doi:10.3390/ijerph15102275.
+
+PMC - PMC5858312
+PMID- 29385096
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 2
+DP  - 2018 Feb
+TI  - Landslide Susceptibility Assessment Using Spatial Multi-Criteria Evaluation Model
+      in Rwanda.
+LID - 243
+AB  - Landslides susceptibility assessment has to be conducted to identify prone areas 
+      and guide risk management. Landslides in Rwanda are very deadly disasters. The
+      current research aimed to conduct landslide susceptibility assessment by applying
+      Spatial Multi-Criteria Evaluation Model with eight layers of causal factors
+      including: slope, distance to roads, lithology, precipitation, soil texture, soil
+      depth, altitude and land cover. In total, 980 past landslide locations were
+      mapped. The relationship between landslide factors and inventory map was
+      calculated using the Spatial Multi-Criteria Evaluation. The results revealed that
+      susceptibility is spatially distributed countrywide with 42.3% of the region
+      classified from moderate to very high susceptibility, and this is inhabited by
+      49.3% of the total population. In addition, Provinces with high to very high
+      susceptibility are West, North and South (40.4%, 22.8% and 21.5%, respectively). 
+      Subsequently, the Eastern Province becomes the peak under low susceptibility
+      category (87.8%) with no very high susceptibility (0%). Based on these findings, 
+      the employed model produced accurate and reliable outcome in terms of
+      susceptibility, since 49.5% of past landslides fell within the very high
+      susceptibility category, which confirms the model’s performance. The outcomes of 
+      this study will be useful for future initiatives related to landslide risk
+      reduction and management.
+FAU - Nsengiyumva, Jean Baptiste
+AU  - Nsengiyumva JB
+AD  - State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology
+      and Geography, Chinese Academy of Sciences, No. 818, South Beijing Road, Urumqi
+      830011, China; jbatigol@yahoo.com (J.B.N.); lameknahayo@gmail.com (L.N.);
+      hxt1983@gmail.com (X.H.); caipeng13@mails.ucas.ac.cn (P.C.)
+FAU - Luo, Geping
+AU  - Luo G
+AD  - State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology
+      and Geography, Chinese Academy of Sciences, No. 818, South Beijing Road, Urumqi
+      830011, China; jbatigol@yahoo.com (J.B.N.); lameknahayo@gmail.com (L.N.);
+      hxt1983@gmail.com (X.H.); caipeng13@mails.ucas.ac.cn (P.C.)
+FAU - Nahayo, Lamek
+AU  - Nahayo L
+AD  - State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology
+      and Geography, Chinese Academy of Sciences, No. 818, South Beijing Road, Urumqi
+      830011, China; jbatigol@yahoo.com (J.B.N.); lameknahayo@gmail.com (L.N.);
+      hxt1983@gmail.com (X.H.); caipeng13@mails.ucas.ac.cn (P.C.)
+FAU - Huang, Xiaotao
+AU  - Huang X
+AD  - State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology
+      and Geography, Chinese Academy of Sciences, No. 818, South Beijing Road, Urumqi
+      830011, China; jbatigol@yahoo.com (J.B.N.); lameknahayo@gmail.com (L.N.);
+      hxt1983@gmail.com (X.H.); caipeng13@mails.ucas.ac.cn (P.C.)
+FAU - Cai, Peng
+AU  - Cai P
+AD  - State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology
+      and Geography, Chinese Academy of Sciences, No. 818, South Beijing Road, Urumqi
+      830011, China; jbatigol@yahoo.com (J.B.N.); lameknahayo@gmail.com (L.N.);
+      hxt1983@gmail.com (X.H.); caipeng13@mails.ucas.ac.cn (P.C.)
+LA  - eng
+PT  - Journal Article
+DEP - 20180131
+PHST- 2017/11/27 [received]
+PHST- 2018/01/16 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15020243 [doi]
+AID - ijerph-15-00243 [pii]
+SO  - Int J Environ Res Public Health. 2018 Feb;15(2):. Epub 2018 Jan 31
+      doi:10.3390/ijerph15020243.
+
+PMC - PMC5399995
+PMID- 28451069
+IS  - 2000-8066 (Electronic)
+VI  - 8
+IP  - 1
+DP  - 2017
+TI  - Posttraumatic growth and depreciation six years after the 2004 tsunami.
+LID - 1302691
+AB  - Background: Posttraumatic growth (PTG) has been reported after various types of
+      potentially traumatic events, as a part of the personal recovery process among
+      survivors. Even negative changes in survivors’ life view, known as posttraumatic 
+      depreciation (PTD), have been identified as an additional aspect in the personal 
+      recovery processes.Objective: To examine how the type of exposure experienced by 
+      survivors of a natural disaster, the 2004 Southeast Asia tsunami, influenced
+      self-reported PTG and PTD six years later (T2). Additionally, the study examined 
+      the relations between psychological distress and posttraumatic stress symptoms
+      (PTSS) 14 months after the disaster (T1), to PTG and PTD, respectively at T2.
+      Finally, the study examined whether psychological distress and PTSS (T1) could
+      have a mediating effect on PTG and PTD at T2.Method: The participants were 848
+      tsunami survivors living in Stockholm, Sweden who responded to a questionnaire at
+      14 months (T1) and six years (T2) after the tsunami. The material was analysed
+      using linear regression and pathway analysis. PTG and PTD were measured on
+      separate scales.Results: The type of exposure was significant related to both PTG
+      and PTD six years later (T2). Those experiencing a combination of various types
+      of exposure (including threat to life and bereavement) reported higher scores for
+      both PTG and PTD. There were significant positive correlations between PTSS at T1
+      and PTG /PTD at T2, and somewhat lower correlations between psychological
+      distress at T1 and PTG/PTD at T2. Both PTSS and psychological distress at T1 were
+      significant mediating variables for both PTG and PTD at T2.Conclusions: Studying 
+      survivors’ various types of exposure and subsequent changed view of life – both
+      PTG and PTD – resulted in a broadened understanding of the complexity of
+      reactions and the recovery process among survivors.
+FAU - Michélsen, Hans
+AU  - Michélsen H
+AD  - Crisis and Disaster Psychology, Department of Neurobiology, Care Sciences and
+      Society, Karolinska Institutet, Huddinge, Sweden
+FAU - Therup-Svedenlöf, Charlotte
+AU  - Therup-Svedenlöf C
+AD  - Crisis and Disaster Psychology, Department of Neurobiology, Care Sciences and
+      Society, Karolinska Institutet, Huddinge, Sweden
+FAU - Backheden, Magnus
+AU  - Backheden M
+AD  - Department of Learning, Informatics, Management and Ethics, LIME, Karolinska
+      Institutet, Stockholm, Sweden
+FAU - Schulman, Abbe
+AU  - Schulman A
+AD  - Crisis and Disaster Psychology, Department of Neurobiology, Care Sciences and
+      Society, Karolinska Institutet, Huddinge, Sweden
+LA  - eng
+PT  - Journal Article
+DEP - 20170324
+PHST- 2016/12/21 [received]
+PHST- 2017/02/15 [accepted]
+TA  - Eur J Psychotraumatol
+JT  - European Journal of Psychotraumatology
+AID - 1302691 [pii]
+AID - 10.1080/20008198.2017.1302691 [doi]
+SO  - Eur J Psychotraumatol. 2017 Mar 24;8(1):. doi:10.1080/20008198.2017.1302691.
+
+PMC - PMC5516998
+PMID- 28723959
+IS  - 1932-6203 (Electronic)
+VI  - 12
+IP  - 7
+DP  - 2017
+TI  - A novel surveillance approach for disaster mental health.
+LID - e0181233
+AB  - Background: Disasters have substantial consequences for population mental health.
+      Social media data present an opportunity for mental health surveillance after
+      disasters to help identify areas of mental health needs. We aimed to 1) identify 
+      specific basic emotions from Twitter for the greater New York City area during
+      Hurricane Sandy, which made landfall on October 29, 2012, and to 2) detect and
+      map spatial temporal clusters representing excess risk of these emotions.
+      Methods: We applied an advanced sentiment analysis on 344,957 Twitter tweets in
+      the study area over eleven days, from October 22 to November 1, 2012, to extract 
+      basic emotions, a space-time scan statistic (SaTScan) and a geographic
+      information system (QGIS) to detect and map excess risk of these emotions.
+      Results: Sadness and disgust were among the most prominent emotions identified.
+      Furthermore, we noted 24 spatial clusters of excess risk of basic emotions over
+      time: Four for anger, one for confusion, three for disgust, five for fear, five
+      for sadness, and six for surprise. Of these, anger, confusion, disgust and fear
+      clusters appeared pre disaster, a cluster of surprise was found peri disaster,
+      and a cluster of sadness emerged post disaster. Conclusions: We proposed a novel 
+      syndromic surveillance approach for mental health based on social media data that
+      may support conventional approaches by providing useful additional information in
+      the context of disaster. We showed that excess risk of multiple basic emotions
+      could be mapped in space and time as a step towards anticipating acute stress in 
+      the population and identifying community mental health need rapidly and
+      efficiently in the aftermath of disaster. More studies are needed to better
+      control for bias, identify associations with reliable and valid instruments
+      measuring mental health, and to explore computational methods for continued
+      model-fitting, causal relationships, and ongoing evaluation. Our study may be a
+      starting point also for more fully elaborated models that can either
+      prospectively detect mental health risk using real-time social media data or
+      detect excess risk of emotional reactions in areas that lack efficient
+      infrastructure during and after disasters. As such, social media data may be used
+      for mental health surveillance after large scale disasters to help identify areas
+      of mental health needs and to guide us in our knowledge where we may most
+      effectively intervene to reduce the mental health consequences of disasters.
+FAU - Gruebner, Oliver
+AU  - Gruebner O
+AUID- ORCID: 0000-0001-9783-4770
+AD  - Harvard T.H. Chan School of Public Health, Department of Social and Behavioral
+      Sciences, Boston, MA, United States of America
+FAU - Lowe, Sarah R.
+AU  - Lowe SR
+AD  - Montclair State University, Department of Psychology, Montclair, NJ, United
+      States of America
+FAU - Sykora, Martin
+AU  - Sykora M
+AD  - Loughborough University, School of Business and Economics (SBE), Centre for
+      Information Management (CIM), Loughborough, United Kingdom
+FAU - Shankardass, Ketan
+AU  - Shankardass K
+AD  - Wilfrid Laurier University, Department of Health Sciences, Waterloo, Ontario,
+      Canada
+FAU - Subramanian, S. V.
+AU  - Subramanian SV
+AD  - Harvard T.H. Chan School of Public Health, Department of Social and Behavioral
+      Sciences, Boston, MA, United States of America
+FAU - Galea, Sandro
+AU  - Galea S
+AD  - Boston University, School of Public Health, Boston, MA, United States of America
+LA  - eng
+PT  - Journal Article
+DEP - 20170719
+GR  - GR 4302/1-1, GR 4302/2-1
+PHST- 2016/05/11 [received]
+PHST- 2017/06/28 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0181233 [doi]
+AID - PONE-D-16-19119 [pii]
+SO  - PLoS One. 2017 Jul 19;12(7):. doi:10.1371/journal.pone.0181233.
+
+PMC - PMC5576520
+PMID- 26967576
+IS  - 0969-9546 (Print)
+IS  - 1473-5695 (Electronic)
+VI  - 24
+IP  - 5
+DP  - 2017 Oct
+TI  - Disaster preparedness and response improvement: comparison of the 2010 Haiti
+      earthquake-related diagnoses with baseline medical data.
+PG  - 382-8
+AB  - Supplemental Digital Content is available in the text.
+OAB - Publisher: Abstract available from the publisher.
+FAU - van Berlaer, Gerlant
+AU  - van Berlaer G
+AD  - Department of Emergency and Disaster Medicine, Universitair Ziekenhuis Brussel
+FAU - Staes, Tom
+AU  - Staes T
+AD  - Belgian First Aid and Support Team
+FAU - Danschutter, Dirk
+AU  - Danschutter D
+AD  - Research Group on Emergency and Disaster Medicine
+FAU - Ackermans, Ronald
+AU  - Ackermans R
+AD  - Belgian First Aid and Support Team
+FAU - Zannini, Stefano
+AU  - Zannini S
+AD  - Médecins sans Frontières – Support to Operations, MSF Italy, Rome, Italy
+FAU - Rossi, Gabriele
+AU  - Rossi G
+AD  - Médecins sans Frontières – Emergency Coordinator, MSF Operational Centre,
+      Brussels
+FAU - Buyl, Ronald
+AU  - Buyl R
+AD  - Department of Public Health, Biostatistics and Medical Informatics Research
+      Group, Vrije Universiteit Brussel
+FAU - Gijs, Geert
+AU  - Gijs G
+AD  - Belgian First Aid and Support Team
+FAU - Debacker, Michel
+AU  - Debacker M
+AD  - Department of Emergency and Disaster Medicine, Universitair Ziekenhuis Brussel
+FAU - Hubloue, Ives
+AU  - Hubloue I
+AD  - Department of Emergency and Disaster Medicine, Universitair Ziekenhuis Brussel
+LA  - eng
+PT  - Journal Article
+DEP - 20160322
+PHST- 2015/10/28 [received]
+PHST- 2016/02/18 [accepted]
+PHST- 2016/03/22 [aheadofprint]
+TA  - Eur J Emerg Med
+JT  - European Journal of Emergency Medicine
+AID - 10.1097/MEJ.0000000000000387 [doi]
+SO  - Eur J Emerg Med. 2017 Oct;24(5):382-8. Epub 2016 Mar 22
+      doi:10.1097/MEJ.0000000000000387.
+
+PMC - PMC6239230
+PMID- 29063572
+IS  - 0943-4747 (Print)
+IS  - 2364-0502 (Electronic)
+VI  - 26
+IP  - 1
+DP  - 2017 Aug
+TI  - Public Health, Population Health, and Epidemiology Informatics: Recent Research
+      and Trends in the United States.
+PG  - 241-7
+AB  - Objectives: To survey advances in public and population health and epidemiology
+      informatics over the past 18 months. Methods: We conducted a review of
+      English-language research works conducted in the domain of public and population 
+      health informatics and published in MEDLINE or Web of Science between January
+      2015 and June 2016 where information technology or informatics was a primary
+      subject or main component of the study methodology. Selected articles were
+      presented using a thematic analysis based on the 2011 American Medical
+      Informatics Association (AMIA) Public Health Informatics Agenda tracks as a
+      typology. Results: Results are given within the context developed by Dixon et
+      al., (2015) and key themes from the 2011 AMIA Public Health Informatics Agenda.
+      Advances are presented within a socio-technical infrastructure undergirded by a
+      trained, competent public health workforce, systems development to meet the
+      business needs of the practice field, and research that evaluates whether those
+      needs are adequately met. The ability to support and grow the infrastructure
+      depends on financial sustainability. Conclusions: The fields of public health and
+      population health informatics continue to grow, with the most notable
+      developments focused on surveillance, workforce development, and linking to or
+      providing clinical services, which encompassed population health informatics
+      advances. Very few advances addressed the need to improve communication,
+      coordination, and consistency with the field of informatics itself, as identified
+      in the AMIA agenda. This will likely result in the persistence of the silos of
+      public health information systems that currently exist. Future research
+      activities need to aim toward a holistic approach of informatics across the
+      enterprise.
+FAU - Massoudi, B. L.
+AU  - Massoudi BL
+AD  - Public Health Informatics Program, RTI International, Atlanta, GA, USA
+FAU - Chester, K. G.
+AU  - Chester KG
+AD  - Rollins School of Public Health, Emory University, Atlanta, GA, USA
+LA  - eng
+PT  - Journal Article
+DEP - 20170911
+PHST- 2017/09/11 [aheadofprint]
+TA  - Yearb Med Inform
+JT  - Yearbook of Medical Informatics
+AID - 10.15265/IY-2017-035 [doi]
+SO  - Yearb Med Inform. 2017 Aug;26(1):241-7. Epub 2017 Sep 11
+      doi:10.15265/IY-2017-035.
+
+PMC - PMC4772242
+PMID- 26901210
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 13
+IP  - 2
+DP  - 2016 Feb
+TI  - Assessment of the Casualty Risk of Multiple Meteorological Hazards in China.
+LID - 222
+AB  - A study of the frequency, intensity, and risk of extreme climatic events or
+      natural hazards is important for assessing the impacts of climate change. Many
+      models have been developed to assess the risk of multiple hazards, however, most 
+      of the existing approaches can only model the relative levels of risk. This paper
+      reports the development of a method for the quantitative assessment of the risk
+      of multiple hazards based on information diffusion. This method was used to
+      assess the risks of loss of human lives from 11 types of meteorological hazards
+      in China at the prefectural and provincial levels. Risk curves of multiple
+      hazards were obtained for each province and the risks of 10-year, 20-year,
+      50-year, and 100-year return periods were mapped. The results show that the
+      provinces (municipalities, autonomous regions) in southeastern China are at
+      higher risk of multiple meteorological hazards as a result of their geographical 
+      location and topography. The results of this study can be used as references for 
+      the management of meteorological disasters in China. The model can be used to
+      quantitatively calculate the risks of casualty, direct economic losses, building 
+      collapse, and agricultural losses for any hazards at different spatial scales.
+FAU - Xu, Wei
+AU  - Xu W
+AD  - Key Laboratory of Environmental Change and Natural Disasters of Ministry of
+      Education, Beijing Normal University, Beijing 100875, China; xuwei@bnu.edu.cn
+FAU - Zhuo, Li
+AU  - Zhuo L
+AD  - Guangdong Provincial Key Laboratory of Urbanization and Geo-simulation, School of
+      Geography and Planning, Sun Yat-Sen University, Guangzhou 510275, China
+FAU - Zheng, Jing
+AU  - Zheng J
+AD  - Guangdong Climate Center, Guangzhou 510080, China; zhengjing@grmc.gov.cn
+FAU - Ge, Yi
+AU  - Ge Y
+AD  - State Key Laboratory of Pollution Control & Resource Re-use, School of the
+      Environment, Nanjing University, Nanjing 210093, China; geyi@nju.edu.cn
+FAU - Gu, Zhihui
+AU  - Gu Z
+AD  - College of Architecture & Urban Planning, Shenzhen University, Shenzhen 518060,
+      China; gzh@szu.edu.cn
+FAU - Tian, Yugang
+AU  - Tian Y
+AD  - School of Information Engineering, China University of Geosciences, Wuhan 430074,
+      China; ygangtian@cug.edu.cn
+LA  - eng
+PT  - Journal Article
+DEP - 20160217
+PHST- 2015/12/17 [received]
+PHST- 2016/02/09 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph13020222 [doi]
+AID - ijerph-13-00222 [pii]
+SO  - Int J Environ Res Public Health. 2016 Feb;13(2):. Epub 2016 Feb 17
+      doi:10.3390/ijerph13020222.
+
+PMC - PMC4809515
+PMID- 27019425
+IS  - 1932-6203 (Electronic)
+VI  - 11
+IP  - 3
+DP  - 2016
+TI  - Tweeting Supertyphoon Haiyan: Evolving Functions of Twitter during and after a
+      Disaster Event.
+LID - e0150190
+AB  - When disaster events capture global attention users of Twitter form transient
+      interest communities that disseminate information and other messages online. This
+      paper examines content related to Typhoon Haiyan (locally known as Yolanda) as it
+      hit the Philippines and triggered international humanitarian response and media
+      attention. It reveals how Twitter conversations about disasters evolve over time,
+      showing an issue attention cycle on a social media platform. The paper examines
+      different functions of Twitter and the information hubs that drive and sustain
+      conversation about the event. Content analysis shows that the majority of tweets 
+      contain information about the typhoon or its damage, and disaster relief
+      activities. There are differences in types of content between the most retweeted 
+      messages and posts that are original tweets. Original tweets are more likely to
+      come from ordinary users, who are more likely to tweet emotions, messages of
+      support, and political content compared with official sources and key information
+      hubs that include news organizations, aid organization, and celebrities. Original
+      tweets reveal use of the site beyond information to relief coordination and
+      response.
+FAU - David, Clarissa C.
+AU  - David CC
+AD  - Graduate Studies, College of Mass Communication, University of the Philippines,
+      Quezon City, Philippines
+FAU - Ong, Jonathan Corpus
+AU  - Ong JC
+AD  - Department of Media and Communication, University of Leicester, Leicester, United
+      Kingdom
+FAU - Legara, Erika Fille T.
+AU  - Legara EFT
+AD  - Complex Systems Group, Computing Science Department, Institute of High
+      Performance Computing, A*STAR, Singapore, Singapore
+LA  - eng
+PT  - Journal Article
+DEP - 20160328
+PHST- 2015/10/02 [received]
+PHST- 2016/02/09 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0150190 [doi]
+AID - PONE-D-15-43443 [pii]
+SO  - PLoS One. 2016 Mar 28;11(3):. doi:10.1371/journal.pone.0150190.
+
+PMC - PMC7127132
+PMID- 32287362
+IS  - 0016-7185 (Print)
+IS  - 1872-9398 (Electronic)
+VI  - 75
+DP  - 2016 Oct
+TI  - Evidence and future potential of mobile phone data for disease disaster
+      management.
+PG  - 253-64
+AB  - •Actively and passively produced mobile phone data can strengthen all phases of
+      disaster management.•Call detail records (CDR) and two-way SMS can increase
+      efficiencies and improve data availability.•Representativeness, data quality, and
+      legal/ethical considerations require further attention.•Develops a typology of
+      mobile data sources, types, and end-uses, and framework to assist mobile data use
+      decisions.•Results have relevance for the wider disaster management context.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Cinnamon, Jonathan
+AU  - Cinnamon J
+AD  - Department of Geography, College of Life and Environmental Sciences, University
+      of Exeter, UK
+FAU - Jones, Sarah K.
+AU  - Jones SK
+AD  - Department of Geography, King’s College London, UK
+FAU - Adger, W. Neil
+AU  - Adger WN
+AD  - Department of Geography, College of Life and Environmental Sciences, University
+      of Exeter, UK
+LA  - eng
+PT  - Journal Article
+DEP - 20160824
+PHST- 2016/03/01 [received]
+PHST- 2016/07/28 [revised]
+PHST- 2016/07/29 [accepted]
+PHST- 2016/08/24 [aheadofprint]
+TA  - Geoforum
+JT  - Geoforum; Journal of Physical, Human, and Regional Geosciences
+AID - S0016-7185(16)30198-1 [pii]
+AID - 10.1016/j.geoforum.2016.07.019 [doi]
+SO  - Geoforum. 2016 Oct;75:253-64. Epub 2016 Aug 24
+      doi:10.1016/j.geoforum.2016.07.019.
+
+PMC - PMC6371570
+PMID- 30744641
+IS  - 1478-4505 (Electronic)
+VI  - 17
+DP  - 2019
+TI  - A bibliometric analysis of health-related literature on natural disasters from
+      1900 to 2017.
+LID - 18
+AB  - Background: Worldwide, natural disasters have caused a large number of deaths and
+      considerable morbidity. Nevertheless, limited information is available on how the
+      health-related literature on natural disasters has evolved. The current study
+      aims to assess the growth and pattern of health-related literature on natural
+      disasters. Method: A bibliometric method was implemented using Scopus database
+      for the period from 1900 to 2017. Keywords used in the search strategy were
+      obtained from the classifications of natural disasters presented by the Centre
+      for Research on the Epidemiology of Disasters. The health component was
+      determined by selecting the health-related subject areas in Scopus. Results: In
+      total, 9073 documents were retrieved. The annual number of publications showed a 
+      noticeable sharp increase after 2004. The retrieved documents received 97,605
+      citations, an average of 10.8 per document. The h-index of the retrieved
+      documents was 113. Author keywords with the highest occurrence were ‘earthquakes’
+      followed by ‘disaster medicine’, ‘disaster planning’, ‘tsunami’, ‘mental health’,
+      ‘disaster preparedness’, ‘PTSD’, ‘emergency preparedness’, and ‘public health’.
+      Authors from the United States of America contributed to 3127 (34.5%)
+      publications and ranked first, followed by those from Japan (700; 7.7%) and China
+      (636; 7.0%). When research output was standardised by Gross Domestic Product per 
+      capita, India ranked first, followed by China and the United States. The United
+      Kingdom had the highest percentage of documents with international authors,
+      followed by those from Switzerland and Canada. The Prehospital and Disaster
+      Medicine journal published the most articles (636; 7.0%). The Sichuan University 
+      and its affiliated hospital contributed to 384 (7.0%) documents and ranked first 
+      in the field. Conclusion: The current baseline information on health-related
+      literature on natural disasters showed that this field is growing rapidly but
+      with inadequate international research collaboration. Research collaboration in
+      this field needs to be strengthened to improve the global response to natural
+      disasters in any place in the world. There is a need to expand the research focus
+      in this field to include communicable and non-communicable diseases. Finally, the
+      health effects of other natural disasters, such as floods, droughts and disease
+      outbreaks, need to be addressed. Electronic supplementary material: The online
+      version of this article (10.1186/s12961-019-0418-1) contains supplementary
+      material, which is available to authorized users.
+FAU - Sweileh, Waleed M.
+AU  - Sweileh WM
+AD  - 0000 0004 0631 5695grid.11942.3fDepartment of Physiology,
+      Pharmacology/Toxicology, Division of Biomedical Sciences, College of Medicine and
+      Health Sciences, An-Najah National University, Nablus, Palestine
+LA  - eng
+PT  - Journal Article
+DEP - 20190211
+PHST- 2018/05/10 [received]
+PHST- 2019/01/20 [accepted]
+TA  - Health Res Policy Syst
+JT  - Health Research Policy and Systems
+AID - 418 [pii]
+AID - 10.1186/s12961-019-0418-1 [doi]
+SO  - Health Res Policy Syst. 2019 Feb 11;17:. doi:10.1186/s12961-019-0418-1.
+
+PMC - PMC5330802
+PMID- 28152421
+IS  - 0277-9536 (Print)
+IS  - 1873-5347 (Electronic)
+VI  - 177
+DP  - 2017 Mar
+TI  - Untangling the Disaster-Depression Knot: The Role of Social Ties After Deepwater 
+      Horizon.
+PG  - 19-26
+AB  - The mental health consequences of disasters, including oil spills, are well
+      known. The goal of this study is to examine whether social capital and social
+      support mediate the effects of exposure to the Deepwater Horizon oil spill on
+      depression among women. Data for the analysis come from the first wave of data
+      collection for the Women and Their Children's Health Study, a longitudinal study 
+      of the health effects of women exposed to the oil spill in southern Louisiana,
+      USA. Women were interviewed about their exposure to the oil spill, depression
+      symptoms, structural social capital (neighborhood organization participation),
+      cognitive social capital (sense of community and informal social control), and
+      social support. Structural equation models indicated that structural social
+      capital was associated with increased levels of cognitive social capital, which
+      were associated with higher levels of social support, which in turn were
+      associated with lower levels of depression. Physical exposure to the oil spill
+      was associated with greater economic exposure, which in turn was associated with 
+      higher levels of depression. When all variables were taken into account, economic
+      exposure was no longer associated with depression, and social support and
+      cognitive social capital mediated the effect of economic exposure on depression, 
+      explaining 67% of the effect. Findings support an extension of the deterioration 
+      model of social support to include the additional coping resource of social
+      capital. Social capital and social support were found to be beneficial for
+      depression post-oil spill; however, they were themselves negatively impacted by
+      the oil spill, explaining the overall negative effect of the oil spill on
+      depression. A better understanding of the pathways between the social context and
+      depression could lead to interventions for improved mental health in the
+      aftermath of a disaster.
+FAU - Rung, Ariane L.
+AU  - Rung AL
+AD  - Louisiana State University Health Sciences Center School of Public Health,
+      Epidemiology Program 2020 Gravier Street, 3 floor, New Orleans, LA 70118 USA
+FAU - Gaston, Symielle
+AU  - Gaston S
+AD  - Louisiana State University Health Sciences Center School of Public Health,
+      Epidemiology Program 2020 Gravier Street, 3 floor, New Orleans, LA 70118 USA
+FAU - Robinson, William T.
+AU  - Robinson WT
+AD  - Louisiana State University Health Sciences Center School of Public Health,
+      Behavioral & Community Health Sciences Program 2020 Gravier Street, 3 floor, New 
+      Orleans, LA 70118 USA, wrobin@lsuhsc.edu
+FAU - Trapido, Edward J.
+AU  - Trapido EJ
+AD  - Louisiana State University Health Sciences Center School of Public Health,
+      Epidemiology Program 2020 Gravier Street, 3 floor, New Orleans, LA 70118 USA,
+      etrapi@lsuhsc.edu
+FAU - Peters, Edward S.
+AU  - Peters ES
+AD  - Louisiana State University Health Sciences Center School of Public Health,
+      Epidemiology Program 2020 Gravier Street, 3 floor, New Orleans, LA 70118 USA,
+      epete1@lsuhsc.edu
+LA  - eng
+PT  - Journal Article
+DEP - 20170124
+TA  - Soc Sci Med
+JT  - Social science & medicine (1982)
+AID - 10.1016/j.socscimed.2017.01.041 [doi]
+MID - NIHMS848118
+SO  - Soc Sci Med. 2017 Mar;177:19-26. Epub 2017 Jan 24
+      doi:10.1016/j.socscimed.2017.01.041.
+
+PMC - PMC5008756
+PMID- 27584053
+IS  - 1932-6203 (Electronic)
+VI  - 11
+IP  - 9
+DP  - 2016
+TI  - Technology and Information Sharing in Disaster Relief.
+LID - e0161783
+AB  - This paper seeks to examine the extent to which technological advances can
+      enhance inter-organizational information sharing in disaster relief. Our case is 
+      the Virtual OSOCC (On-Site Operations Coordination Centre) which is a part of the
+      Global Disaster Alert and Coordination System (GDACS) under the United Nations
+      Office for Coordination of Humanitarian Affairs (UN OCHA). The online platform,
+      which has been developing for more than a decade, provides a unique insight into 
+      coordination behaviour among disaster management agencies and individual actors. 
+      We build our study on the analysis of a complete database of user interaction
+      including more than 20,000 users and 11,000 comments spread across approximately 
+      300 disaster events. Controlling for types and severities of the events,
+      location-specific vulnerabilities, and the overall trends, we find that the
+      introduction of new features have led to increases in user activity. We
+      supplement the data-driven approach with evidence from semi-structured interviews
+      with administrators and key users, as well as a survey among all users
+      specifically designed to capture and assess the elements highlighted by both
+      interviews and data analysis.
+FAU - Bjerge, Benedikte
+AU  - Bjerge B
+AD  - Faculty of Science, University of Copenhagen, Copenhagen, Denmark
+FAU - Clark, Nathan
+AU  - Clark N
+AD  - Faculty of Law, University of Copenhagen, Copenhagen, Denmark
+FAU - Fisker, Peter
+AU  - Fisker P
+AD  - Faculty of Science, University of Copenhagen, Copenhagen, Denmark
+FAU - Raju, Emmanuel
+AU  - Raju E
+AD  - Faculty of Law, University of Copenhagen, Copenhagen, Denmark
+LA  - eng
+PT  - Journal Article
+DEP - 20160901
+PHST- 2016/06/04 [received]
+PHST- 2016/08/11 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - PONE-D-16-22459 [pii]
+AID - 10.1371/journal.pone.0161783 [doi]
+SO  - PLoS One. 2016 Sep 1;11(9):. doi:10.1371/journal.pone.0161783.
+
+PMC - PMC6023217
+PMID- 29953497
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 6
+DP  - 2018
+TI  - Role of forensic odontology in the identification of victims of major mass
+      disasters across the world: A systematic review.
+LID - e0199791
+AB  - Background: Forensic odontology (FO) is regarded in the literature as one of the 
+      most reliable and economical scientific methods for victim identification in mass
+      disasters (MDs). The present paper systematically reviews the role of forensic
+      odontologists in various global MDs. Method: A comprehensive search of the
+      literature databases (PubMed, Medline, SCOPUS, Web of Science and Google
+      Scholar), along with cross-referencing published peer-reviewed articles, was
+      conducted. The search included full texts, abstracts or titles, had no inclusion 
+      year limit (searched until September 2017) and was limited to the English
+      language. Keywords included a combination of ‘Forensic odontology’, ‘Dental
+      records’, ‘Victim identification’, ‘Natural mass disaster’, ‘Criminal mass
+      disaster’, ‘Accidental mass disaster’ and ‘Victim disaster’. Results: Of the
+      included disasters (20), 12 (57.14%) were accidental, 5 (23.80%) natural and 3
+      (19.04%) were criminal. The maximum number of victims was associated with the
+      Japan tsunami (15892), followed by the Thailand tsunami (4280) and the Estonia
+      ferry disaster (852). A total of 23654 victims were reported, of which 20569
+      (86.96%) were positively identified. Reports from 17 MDs included the use of FO
+      in victim identification [3025 (14.70%) cases]. In addition, 1094 victims (5.31%;
+      from 7 papers) were identified using FO in combination with other methodologies. 
+      The highest percentage of victims was identified using FO following the Kentucky 
+      air crash (47; 100%), followed by the Newark air crash (38; 76%), the Nepal air
+      crash (10; 71.42%), the France air crash (56; 65.88%), the Australian bushfire
+      (14; 63.63%), and the Estonia ferry disaster (57; 60.63%). Conclusion: FO has
+      played a significant role in victim identification in several MDs around the
+      world. The success of FO-based identification is heavily dependent on the
+      availability of ante-mortem records from general dental practitioners. Hence,
+      adequate knowledge about FO and appropriate dental record keeping among general
+      dental practitioners are critical.
+FAU - Prajapati, Ghevaram
+AU  - Prajapati G
+AD  - Department of Oral Pathology and Microbiology, Dr. D.Y. Patil Dental College and 
+      Hospital, Dr. D.Y. Patil Vidyapeeth, Pune, India
+FAU - Sarode, Sachin C.
+AU  - Sarode SC
+AUID- ORCID: 0000-0003-1856-0957
+AD  - Department of Oral Pathology and Microbiology, Dr. D.Y. Patil Dental College and 
+      Hospital, Dr. D.Y. Patil Vidyapeeth, Pune, India
+FAU - Sarode, Gargi S.
+AU  - Sarode GS
+AD  - Department of Oral Pathology and Microbiology, Dr. D.Y. Patil Dental College and 
+      Hospital, Dr. D.Y. Patil Vidyapeeth, Pune, India
+FAU - Shelke, Pankaj
+AU  - Shelke P
+AD  - Department of Oral Pathology and Microbiology, Dr. D.Y. Patil Dental College and 
+      Hospital, Dr. D.Y. Patil Vidyapeeth, Pune, India
+FAU - Awan, Kamran H.
+AU  - Awan KH
+AD  - College of Dental Medicine, Roseman University of Health Sciences, South Jordan, 
+      Utah, United States of America
+FAU - Patil, Shankargouda
+AU  - Patil S
+AD  - Department of Maxillofacial Surgery and Diagnostic Sciences, Division of Oral
+      Pathology, College of Dentistry, Jazan University, Jazan, Saudi Arabia
+LA  - eng
+PT  - Journal Article
+DEP - 20180628
+PHST- 2017/11/28 [received]
+PHST- 2018/06/13 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0199791 [doi]
+AID - PONE-D-17-41826 [pii]
+SO  - PLoS One. 2018 Jun 28;13(6):. doi:10.1371/journal.pone.0199791.
+
+PMC - PMC6181164
+PMID- 30323389
+IS  - 0002-9459 (Print)
+IS  - 1553-6467 (Electronic)
+VI  - 82
+IP  - 7
+DP  - 2018 Sep
+TI  - A Progress Report on the State of Pharmacy Informatics Education in US Pharmacy
+      Schools and Colleges.
+LID - 6332
+AB  - Objective. To characterize informatics education opportunities in US colleges and
+      schools of pharmacy curricula.Methods. Informatics curricular information online 
+      was catalogued via publicly available websites. Website content was searched via 
+      domain-specific keywords. Online course descriptions were reviewed. Website
+      searches were also conducted for informatics-related opportunities.Results. Of
+      132 pharmacy curricula found online, 47 (36%) included an informatics course. Of 
+      those, 64% (n=30) were required while 47% (n=22) were elective courses.
+      Additionally, 20% (n=26) provided informatics advanced and/or introductory
+      pharmacy practice experiences, 20% (n=27) offered an informatics residency, and
+      17% (n=22) listed certificate and/or graduate degree programs in
+      informatics.Conclusion. Over the past 10 years, little observable progress has
+      been made in pharmacy school curricula in response to the increasing importance
+      of informatics to the profession. Pharmacy programs can address this educational 
+      gap by internal (eg, course development) and external (eg, open source
+      curriculum) solutions.
+FAU - Clauson, Kevin A.
+AU  - Clauson KA
+AD  - Lipscomb University College of Pharmacy, Nashville, Tennessee
+FAU - Breeden, Elizabeth A.
+AU  - Breeden EA
+AD  - Lipscomb University College of Pharmacy, Nashville, Tennessee
+FAU - Fingado, Amanda R.
+AU  - Fingado AR
+AD  - University of California San Francisco School of Pharmacy, San Francisco,
+      California
+FAU - Kaing, Cindy L.
+AU  - Kaing CL
+AD  - Blanchfield Army Community Hospital, Fort Campbell, Kentucky
+FAU - Flynn, Allen J.
+AU  - Flynn AJ
+AD  - University of Michigan Medical School, Ann Arbor, Michigan
+FAU - Cutler, Timothy W.
+AU  - Cutler TW
+AD  - University of California San Francisco School of Pharmacy, San Francisco,
+      California
+LA  - eng
+PT  - Journal Article
+PHST- 2017/02/10 [received]
+PHST- 2017/08/28 [accepted]
+TA  - Am J Pharm Educ
+JT  - American Journal of Pharmaceutical Education
+AID - 10.5688/ajpe6332 [doi]
+AID - ajpe6332 [pii]
+SO  - Am J Pharm Educ. 2018 Sep;82(7):. doi:10.5688/ajpe6332.
+
+PMC - PMC6850761
+PMID- 30888714
+IS  - 0361-3666 (Print)
+IS  - 1467-7717 (Electronic)
+VI  - 43
+IP  - Suppl 2
+DP  - 2019 Apr
+TI  - Humanitarian governance and resilience building: Ethiopia in comparative
+      perspective.
+PG  - S109-31
+AB  - Humanitarian governance is usually understood according to the classic, Dunantist
+      paradigm that accords central importance to international humanitarian agencies. 
+      However, this is increasingly paralleled by ‘resilience humanitarianism’ that
+      focuses, among other things, on including national actors in humanitarian
+      governance. This article views humanitarian governance as emerging through
+      interactions between authorities, implementing agencies and communities. It is
+      based on interactive ethnography in five countries by Partners for Resilience
+      (PfR). Using the Theory of Change (ToC) tool, it analyses the various
+      interpretations and priorities of actors involved in humanitarian problems,
+      solutions and programme governance. For example, PfR had a ‘software’ focus,
+      aiming to unlock communities’ potential for resilience, whereas communities and
+      authorities preferred to receive tangible ‘hardware’ support. The findings
+      highlight the crucial role of local authorities in shaping humanitarian aid. This
+      is especially pertinent in view of the international agenda to localise aid,
+      which requires the understanding and support of national actors in order to
+      responsibly protect the vulnerable.
+FAU - Hilhorst, Dorothea
+AU  - Hilhorst D
+AD  - Professor of Humanitarian Aid and Reconstruction, International Institute of
+      Social Studies, Erasmus University Rotterdam, the Netherlands
+FAU - Desportes, Isabelle
+AU  - Desportes I
+AD  - PhD candidate, International Institute of Social Studies, Erasmus University
+      Rotterdam, the Netherlands
+FAU - de Milliano, Cecile W.J.
+AU  - de Milliano CW
+AD  - Disaster‐response Coordinator, The Netherlands Red Cross, the Netherlands
+LA  - eng
+PT  - Journal Article
+DEP - 20190319
+TA  - Disasters
+JT  - Disasters
+AID - 10.1111/disa.12332 [doi]
+AID - DISA12332 [pii]
+SO  - Disasters. 2019 Apr;43(Suppl 2):S109-31. Epub 2019 Mar 19 doi:10.1111/disa.12332.
+
+PMC - PMC7612863
+PMID- 30528486
+IS  - 0140-6736 (Print)
+IS  - 1474-547X (Electronic)
+VI  - 392
+IP  - 10164
+DP  - 2018 Dec 15
+TI  - The UCL–Lancet Commission on Migration and Health: the health of a world on the
+      move.
+PG  - 2606-54
+AB  - With one billion people on the move or having moved in 2018, migration is a
+      global reality, which has also become a political lightning rod. Although
+      estimates indicate that the majority of global migration occurs within low-income
+      and middle-income countries (LMICs), the most prominent dialogue focuses almost
+      exclusively on migration from LMICs to high-income countries (HICs). Nowadays,
+      populist discourse demonises the very same individuals who uphold economies,
+      bolster social services, and contribute to health services in both origin and
+      destination locations. Those in positions of political and economic power
+      continue to restrict or publicly condemn migration to promote their own
+      interests. Meanwhile nationalist movements assert so-called cultural sovereignty 
+      by delineating an us versus them rhetoric, creating a moral emergency.In response
+      to these issues, the UCL-Lancet Commission on Migration and Health was convened
+      to articulate evidence-based approaches to inform public discourse and policy.
+      The Commission undertook analyses and consulted widely, with diverse
+      international evidence and expertise spanning sociology, politics, public health 
+      science, law, humanitarianism, and anthropology. The result of this work is a
+      report that aims to be a call to action for civil society, health leaders,
+      academics, and policy makers to maximise the benefits and reduce the costs of
+      migration on health locally and globally. The outputs of our work relate to five 
+      overarching goals that we thread throughout the report.First, we provide the
+      latest evidence on migration and health outcomes. This evidence challenges common
+      myths and highlights the diversity, dynamics, and benefits of modern migration
+      and how it relates to population and individual health. Migrants generally
+      contribute more to the wealth of host societies than they cost. Our Article shows
+      that international migrants in HICs have, on average, lower mortality than the
+      host country population. However, increased morbidity was found for some
+      conditions and among certain subgroups of migrants, (eg, increased rates of
+      mental illness in victims of trafficking and people fleeing conflict) and in
+      populations left behind in the location of origin. Currently, in 2018, the full
+      range of migrants’ health needs are difficult to assess because of poor quality
+      data. We know very little, for example, about the health of undocumented
+      migrants, people with disabilities, or lesbian, gay, bisexual, transsexual, or
+      intersex (LGBTI) individuals who migrate or who are unable to move.Second, we
+      examine multisector determinants of health and consider the implication of the
+      current sector-siloed approaches. The health of people who migrate depends
+      greatly on structural and political factors that determine the impetus for
+      migration, the conditions of their journey, and their destination.
+      Discrimination, gender inequalities, and exclusion from health and social
+      services repeatedly emerge as negative health influences for migrants that
+      require cross-sector responses.Third, we critically review key challenges to
+      healthy migration. Population mobility provides economic, social, and cultural
+      dividends for those who migrate and their host communities. Furthermore, the
+      right to the highest attainable standard of health, regardless of location or
+      migration status, is enshrined in numerous human rights instruments. However,
+      national sovereignty concerns overshadow these benefits and legal norms.
+      Attention to migration focuses largely on security concerns. When there is
+      conjoining of the words health and migration, it is either focused on small
+      subsets of society and policy, or negatively construed. International agreements,
+      such as the UN Global Compact for Migration and the UN Global Compact on
+      Refugees, represent an opportunity to ensure that international solidarity, unity
+      of intent, and our shared humanity triumphs over nationalist and exclusionary
+      policies, leading to concrete actions to protect the health of migrants.Fourth,
+      we examine equity in access to health and health services and offer
+      evidence-based solutions to improve the health of migrants. Migrants should be
+      explicitly included in universal health coverage commitments. Ultimately, the
+      cost of failing to be health-inclusive could be more expensive to national
+      economies, health security, and global health than the modest investments
+      required.Finally, we look ahead to outline how our evidence can contribute to
+      synergistic and equitable health, social, and economic policies, and feasible
+      strategies to inform and inspire action by migrants, policy makers, and civil
+      society. We conclude that migration should be treated as a central feature of
+      21st century health and development. Commitments to the health of migrating
+      populations should be considered across all Sustainable Development Goals (SDGs) 
+      and in the implementation of the Global Compact for Migration and Global Compact 
+      on Refugees. This Commission offers recommendations that view population mobility
+      as an asset to global health by showing the meaning and reality of good health
+      for all. We present four key messages that provide a focus for future action.
+FAU - Abubakar, Ibrahim
+AU  - Abubakar I
+AD  - Institute for Global Health
+FAU - Aldridge, Robert W
+AU  - Aldridge RW
+AD  - Institute for Health Informatics
+FAU - Devakumar, Delan
+AU  - Devakumar D
+FAU - Orcutt, Miriam
+AU  - Orcutt M
+FAU - Burns, Rachel
+AU  - Burns R
+FAU - Barreto, Mauricio L
+AU  - Barreto ML
+AD  - University College London, London, UK; Centre for Data and Knowledge Integration 
+      for Health, Fundação Oswaldo Cruz, Salvador-Bahia, Brazil
+FAU - Dhavan, Poonam
+AU  - Dhavan P
+AD  - International Organization for Migration, Geneva, Switzerland
+FAU - Fouad, Fouad M
+AU  - Fouad FM
+AD  - Faculty of Health Sciences, American University of Beirut, Beirut, Lebanon
+FAU - Groce, Nora
+AU  - Groce N
+AD  - Leonard Cheshire Centre, Institute of Epidemiology and Healthcare
+FAU - Guo, Yan
+AU  - Guo Y
+AD  - School of Public Health, Peking University, Beijing, China
+FAU - Hargreaves, Sally
+AU  - Hargreaves S
+AD  - Institute of Infection and Immunity, St George’s, University of London, London,
+      UK; International Health Unit, Section of Infectious Diseases and Immunity,
+      Imperial College London, London, UK
+FAU - Knipper, Michael
+AU  - Knipper M
+AD  - Institute for the History of Medicine, Justus Liebig University Giessen, Giessen,
+      Germany
+FAU - Miranda, J Jaime
+AU  - Miranda JJ
+AD  - CRONICAS Center of Excellence in Chronic Diseases, Universidad Peruana Cayetano
+      Heredia, Lima, Peru
+FAU - Madise, Nyovani
+AU  - Madise N
+AD  - African Institute for Development Policy, Lilongwe, Malawi; Centre for Global
+      Health, Population, Poverty and Policy, University of Southampton, Southampton,
+      UK
+FAU - Kumar, Bernadette
+AU  - Kumar B
+AD  - Norwegian Centre for Minority Health Research, Oslo, Norway; Department of
+      Community Medicine and Global Health, Institute of Health and Society, Faculty of
+      Medicine, University of Oslo, Oslo, Norway
+FAU - Mosca, Davide
+AU  - Mosca D
+AD  - International Organization for Migration, Geneva, Switzerland
+FAU - McGovern, Terry
+AU  - McGovern T
+AD  - Program on Global Health Justice and Governance, Mailman School of Public Health,
+      Columbia University, New York, NY, USA
+FAU - Rubenstein, Leonard
+AU  - Rubenstein L
+AD  - Center for Public Health and Human Rights; Johns Hopkins Bloomberg School of
+      Public Health, and Berman Institute of Bioethics
+FAU - Sammonds, Peter
+AU  - Sammonds P
+AD  - Institute for Risk and Disaster Reduction
+FAU - Sawyer, Susan M
+AU  - Sawyer SM
+AD  - Johns Hopkins University, Baltimore, MD, USA; Department of Paediatrics,
+      University of Melbourne; University of Melbourne, Parkville, VIC, Australia;
+      Centre for Adolescent Health, and Murdoch Children–s Research Institute, Royal
+      Children–s Hospital, Parkville, VIC, Australia
+FAU - Sheikh, Kabir
+AU  - Sheikh K
+AD  - Public Health Foundation of India, Institutional Area Gurgaon, India; Nossal
+      Institute of Global Health, University of Melbourne, Melbourne, VIC, Australia
+FAU - Tollman, Stephen
+AU  - Tollman S
+AD  - MRC/Wits Rural Public Health and Health Transitions Research Unit, School of
+      Public Health, Faculty of Health Sciences, University of the Witwatersrand,
+      Johannesburg, South Africa
+FAU - Spiegel, Paul
+AU  - Spiegel P
+AD  - Department of International Health; Johns Hopkins Center for Humanitarian Health
+FAU - Zimmerman, Cathy
+AU  - Zimmerman C
+AD  - Gender, Violence and Health Centre, London School of Hygiene and Tropical
+      Medicine, London, UK
+CN  - UCL–Lancet Commission on Migration and Health
+CN  - UCL-Lancet Commission on Migration and Health
+LA  - eng
+PT  - Journal Article
+DEP - 20181205
+FIR - Abbas, Mustafa
+IR  - Abbas M
+FIR - Acer, Eleanor
+IR  - Acer E
+FIR - Ahmad, Ayesha
+IR  - Ahmad A
+FIR - Ahmed, Bayes
+IR  - Ahmed B
+FIR - Abimbola, Seye
+IR  - Abimbola S
+FIR - Beltrán, Juan D
+IR  - Beltrán JD
+FIR - Blanchet, Karl
+IR  - Blanchet K
+FIR - Bocquier, Philippe
+IR  - Bocquier P
+FIR - Samuels, Fiona
+IR  - Samuels F
+FIR - Byrne, Olga
+IR  - Byrne O
+FIR - Haerizadeh, Sonia
+IR  - Haerizadeh S
+FIR - Issa, Rita
+IR  - Issa R
+FIR - Collinson, Mark
+IR  - Collinson M
+FIR - Ginsburg, Carren
+IR  - Ginsburg C
+FIR - Kelman, Ilan
+IR  - Kelman I
+FIR - McAlpine, Alys
+IR  - McAlpine A
+FIR - Pocock, Nicola
+IR  - Pocock N
+FIR - Olshansky, Barbara
+IR  - Olshansky B
+FIR - Ramos, Dandara
+IR  - Ramos D
+FIR - Stavrianaki, Katerina
+IR  - Stavrianaki K
+FIR - White, Michael
+IR  - White M
+FIR - Zhou, Suzanne
+IR  - Zhou S
+PHST- 2018/12/05 [aheadofprint]
+TA  - Lancet
+JT  - Lancet (London, England)
+MID - EMS145859
+AID - 10.1016/S0140-6736(18)32114-7 [doi]
+SO  - Lancet. 2018 Dec 15;392(10164):2606-54. Epub 2018 Dec 05
+      doi:10.1016/S0140-6736(18)32114-7.
+
+PMC - PMC6441009
+PMID- 30535265
+IS  - 0021-972X (Print)
+IS  - 1945-7197 (Electronic)
+VI  - 104
+IP  - 5
+DP  - 2019 May
+TI  - Stable Iodine Distribution Among Children After the 2011 Fukushima Nuclear
+      Disaster in Japan: An Observational Study.
+PG  - 1658-66
+AB  - Context: Intake of stable iodine helps prevent childhood thyroid cancer in
+      nuclear emergencies, but there is limited case information. Objective: We
+      identified the intake rate and the factors associated with no intake among
+      children who did not take stable iodine after the Fukushima disaster. Design:
+      Retrospective observational study. Setting: Data were obtained from thyroid
+      cancer screenings performed from August through November 2017. Participants:
+      Children in Miharu Town, Fukushima, Japan. Intervention: No intervention. Main
+      Outcome Measures: We performed multilevel logistic regression analysis at the
+      regional and individual levels. We qualitatively examined the reasons for no
+      intake of stable iodine based on closed- and open-ended questions. Results: The
+      rate of distribution was 94.9%, but the intake rate was only 63.5%. Intake was
+      lower in those aged 0 to 2 years compared with those aged ≥3 years (OR, 0.21; 95%
+      CI, 0.11 to 0.36). Parents’ intake was positively associated with their
+      children’s intake (OR, 61.0; 95% CI, 37.9 to 102.9). The variance partition
+      coefficient for regions was 0.021, suggesting that the intake of stable iodine
+      was more likely affected by individual than by regional factors. Closed-ended
+      questions showed that the main reason for avoiding intake was concern about
+      safety. Open-ended questions for other reasons revealed issues related to the
+      distribution method, information about the effects and adverse effects of iodine,
+      and instructions for iodine intake. There were no symptomatic adverse effects
+      claimed to the town. Conclusions: The distribution and consumption of stable
+      iodine occurred in Miharu Town after the Fukushima disaster. To prepare for
+      future nuclear emergencies, it is important to explain to both children and
+      parents the need for intake of stable iodine, particularly among young children.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Nishikawa, Yoshitaka
+AU  - Nishikawa Y
+AUID- ORCID: 0000-0003-3313-1990
+AD  - Department of Internal Medicine, Hirata Central Hospital, Fukushima, Japan
+FAU - Kohno, Ayako
+AU  - Kohno A
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Japan
+FAU - Takahashi, Yoshimitsu
+AU  - Takahashi Y
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Japan
+FAU - Suzuki, Chiaki
+AU  - Suzuki C
+AD  - Department of Thyroid Surgery, Hirata Central Hospital, Fukushima, Japan
+FAU - Kinoshita, Hirokatsu
+AU  - Kinoshita H
+AD  - The Institute for Humanistic Studies, Kamakura Women’s University, Kanagawa,
+      Japan
+FAU - Nakayama, Takeo
+AU  - Nakayama T
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Japan
+FAU - Tsubokura, Masaharu
+AU  - Tsubokura M
+AD  - Department of Internal Medicine, Hirata Central Hospital, Fukushima, Japan
+LA  - eng
+PT  - Journal Article
+DEP - 20181210
+PHST- 2018/10/03 [received]
+PHST- 2018/12/04 [accepted]
+TA  - J Clin Endocrinol Metab
+JT  - The Journal of Clinical Endocrinology and Metabolism
+AID - jcem_201802136 [pii]
+AID - 10.1210/jc.2018-02136 [doi]
+SO  - J Clin Endocrinol Metab. 2018 Dec 10;104(5):1658-66. doi:10.1210/jc.2018-02136.
+
+PMC - PMC7118455
+PMID- 32288694
+IS  - 1569-190X (Print)
+IS  - 1878-1462 (Electronic)
+VI  - 65
+DP  - 2016 Jun
+TI  - A systems approach to natural disaster resilience.
+PG  - 11-31
+AB  - The frequency, social, and economic impacts of natural disasters show exponential
+      increases in recent decades. Cities and countries around the world have begun to 
+      realize that these events are no longer “hundred year” storms, but repeat within 
+      a few years. As urbanisation continues throughout this century, more and more
+      people and more economic activity will be concentrated in at-risk areas;
+      especially as new arrivals in cities throughout Asia and Africa are likely to be 
+      concentrated in the highest risk districts, much as they often are in North
+      America and Europe today. This article reviews recent growth of natural disasters
+      and considers how a systems approach can improve approaches to mitigation and
+      adaptation of these risks and to recovery from such events.
+FAU - Harrison, Colin G.
+AU  - Harrison CG
+AD  - Global Institute of Sustainability, Arizona State University, P.O. Box 875402,
+      Tempe, AZ 85287-5502, United States
+FAU - Williams, Peter R.
+AU  - Williams PR
+AD  - IBM Corporation, United States
+LA  - eng
+PT  - Journal Article
+DEP - 20160309
+PHST- 2015/09/08 [received]
+PHST- 2016/02/18 [revised]
+PHST- 2016/02/21 [accepted]
+PHST- 2016/03/09 [aheadofprint]
+TA  - Simul Model Pract Theory
+JT  - Simulation Modelling Practice and Theory
+AID - S1569-190X(16)00027-7 [pii]
+AID - 10.1016/j.simpat.2016.02.008 [doi]
+SO  - Simul Model Pract Theory. 2016 Jun;65:11-31. Epub 2016 Mar 9
+      doi:10.1016/j.simpat.2016.02.008.
+
+PMC - PMC7440387
+PMID- 32995238
+IS  - 2211-5587 (Print)
+IS  - 2211-5595 (Electronic)
+VI  - 9
+IP  - 3
+DP  - 2019 Sep 1
+TI  - Disaster Medicine in Taiwan.
+PG  - 83-109
+AB  - This study aimed to examine scientific publications that were related to disaster
+      medicine and were authored by emergency medicine physicians in Taiwan. This
+      descriptive study utilized the electronic databases of PubMed, Scopus, and Web of
+      Science. Academic works that were published between January 1, 1999, and December
+      31, 2018, were collected for review and analysis. Of the 53 articles included in 
+      the final analysis,40 (75.5%) were original research, 3 (5.7%) were reviews, 1
+      (1.9%) was a brief report, and 9 (17.0%) were perspectives. The top 5 themes were
+      disaster response systems (17, 32.1%), endemic diseases (11, 20.8%), emergency
+      department (ED) overcrowding (10, 18.9%), earthquakes (10, 18.9%), and ED
+      administration (9, 17.0%). Sixteen (30.2%) articles involved international
+      collaborations. The median, interquartile range and range of the numbers of
+      citations of the articles were 3, 1–11, and 0–65, respectively. Twenty-four
+      (45.3%) articles were related to specific incidents: the Chi-Chi earthquake in
+      1999 (n = 5), the Singapore airline crash in 2000 (n = 1), Typhoon Nari in 2001
+      (n = 1), the outbreak of severe acute respiratory syndrome in 2003 (n = 7),
+      Typhoon Morakot in 2009 (n = 1), the color party explosion in Formosa Fun Coast
+      Park in 2015 (n = 4), and the Tainan earthquake in 2016 (n = 5). Regarding the
+      study methods, 19 (35.8%) articles were quantitative studies; 10 (18.9%) were
+      qualitative or semiqualitative studies; 8 (15.1%) used questionnaire surveys; 3
+      (5.7%) were literature reviews; 3 (5.7%) used computer simulations; and 10
+      (18.9%) were descriptive/narrative or other types of studies. Though the number
+      of academic publications related to disaster medicine from the EDs in Taiwan is
+      relatively limited, the quality and diversity of research seem promising. The
+      research environment and education programs on disaster medicine in Taiwan
+      deserve thoughtful consideration.
+FAU - Lin, Chih-Hao
+AU  - Lin CH
+AD  - National Cheng Kung UniversityDepartment of Emergency MedicineNational Cheng Kung
+      University HospitalCollege of MedicineTainanTaiwan
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PHST- 2019/06/04 [accepted]
+PHST- 2019/01/02 [received]
+PHST- 2019/03/08 [revised]
+TA  - J Acute Med
+JT  - Journal of Acute Medicine
+AID - 25545 [pii]
+AID - 10.6705/j.jacme.201909_9(3).0002 [doi]
+SO  - J Acute Med. 2019 Sep 1;9(3):83-109. doi:10.6705/j.jacme.201909_9(3).0002.
+
+PMC - PMC5086754
+PMID- 27763525
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 13
+IP  - 10
+DP  - 2016 Oct
+TI  - The Need for a Definition of Big Data for Nursing Science: A Case Study of
+      Disaster Preparedness.
+LID - 1015
+AB  - The rapid development of technology has made enormous volumes of data available
+      and achievable anytime and anywhere around the world. Data scientists call this
+      change a data era and have introduced the term “Big Data”, which has drawn the
+      attention of nursing scholars. Nevertheless, the concept of Big Data is quite
+      fuzzy and there is no agreement on its definition among researchers of different 
+      disciplines. Without a clear consensus on this issue, nursing scholars who are
+      relatively new to the concept may consider Big Data to be merely a dataset of a
+      bigger size. Having a suitable definition for nurse researchers in their context 
+      of research and practice is essential for the advancement of nursing research. In
+      view of the need for a better understanding on what Big Data is, the aim in this 
+      paper is to explore and discuss the concept. Furthermore, an example of a Big
+      Data research study on disaster nursing preparedness involving six million
+      patient records is used for discussion. The example demonstrates that a Big Data 
+      analysis can be conducted from many more perspectives than would be possible in
+      traditional sampling, and is superior to traditional sampling. Experience gained 
+      from the process of using Big Data in this study will shed light on future
+      opportunities for conducting evidence-based nursing research to achieve
+      competence in disaster nursing.
+FAU - Wong, Ho Ting
+AU  - Wong HT
+AD  - Disaster Nursing Task Force, School of Nursing, the Hong Kong Polytechnic
+      University, Hong Kong, China; frankwong@connect.hku.hk (H.T.W.);
+      alice.yuen.loke@polyu.edu.hk (A.Y.L.)
+FAU - Chiang, Vico Chung Lim
+AU  - Chiang VCL
+AD  - Disaster Nursing Task Force, School of Nursing, the Hong Kong Polytechnic
+      University, Hong Kong, China; frankwong@connect.hku.hk (H.T.W.);
+      alice.yuen.loke@polyu.edu.hk (A.Y.L.)
+FAU - Choi, Kup Sze
+AU  - Choi KS
+AD  - School of Nursing, the Hong Kong Polytechnic University, Hong Kong, China;
+      thomasks.choi@polyu.edu.hk
+FAU - Loke, Alice Yuen
+AU  - Loke AY
+AD  - Disaster Nursing Task Force, School of Nursing, the Hong Kong Polytechnic
+      University, Hong Kong, China; frankwong@connect.hku.hk (H.T.W.);
+      alice.yuen.loke@polyu.edu.hk (A.Y.L.)
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20161017
+PHST- 2016/07/20 [received]
+PHST- 2016/10/12 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph13101015 [doi]
+AID - ijerph-13-01015 [pii]
+SO  - Int J Environ Res Public Health. 2016 Oct;13(10):. Epub 2016 Oct 17
+      doi:10.3390/ijerph13101015.
+
+PMC - PMC6236712
+PMID- 30260698
+IS  - 0090-0036 (Print)
+IS  - 1541-0048 (Electronic)
+VI  - 108
+IP  - Suppl 5
+DP  - 2018 Nov
+TI  - Interjurisdictional Variance in US Workers’ Benefits for Emergency Response
+      Volunteers.
+PG  - S387-93
+AB  - Volunteers who are deployed during times of disaster are critical public health
+      system assets. These individuals share concerns about a variety of subjects with 
+      public health law implications, including whether they are entitled to employment
+      benefits before, during, and after disaster response.We examined and analyzed
+      state employment benefit laws pertaining to emergency response volunteers. We
+      used the Emergency Law Inventory (ELI; https://legalinventory.pitt.edu)—an
+      informatics tool developed at the University of Pittsburgh Graduate School of
+      Public Health that contains more than 1300 statutory and regulatory provisions
+      affecting volunteer activities—to access certain employment laws in 60
+      jurisdictions.Analyses of the laws revealed that fewer than half of the
+      jurisdictions have laws that protect seniority, vacation time, sick time, or
+      overtime privileges. Additionally, there is tremendous variance and lack of
+      uniformity among the jurisdictions concerning employment status requirements,
+      geographic constraints, time limitations, and economic impacts. Major disasters
+      often necessitate interjurisdictional response. To facilitate effective
+      deployment of volunteers, employment laws should be uniform across the states.
+      Furthermore, limitations that impede volunteer responders should be eliminated.
+FAU - Van Nostrand, Elizabeth
+AU  - Van Nostrand E
+FAU - Pillai, Nandini
+AU  - Pillai N
+FAU - Ware, Alix
+AU  - Ware A
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+DEP - 201811
+PHST- 2018/05/04 [accepted]
+PHST- 2018/11 [aheadofprint]
+TA  - Am J Public Health
+JT  - American Journal of Public Health
+AID - 201822524 [pii]
+AID - 10.2105/AJPH.2018.304534 [doi]
+SO  - Am J Public Health. 2018 Nov;108(Suppl 5):S387-93. Epub 2018 Nov
+      doi:10.2105/AJPH.2018.304534.
+
+PMC - PMC6107160
+PMID- 30138373
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 8
+DP  - 2018
+TI  - Assessing the resilience of stochastic dynamic systems under partial
+      observability.
+LID - e0202337
+AB  - Resilience is a property of major interest for the design and analysis of generic
+      complex systems. A system is resilient if it can adjust in response to disruptive
+      shocks, and still provide the services it was designed for, without
+      interruptions. In this work, we adapt a formal definition of resilience for
+      constraint-based systems to a probabilistic framework derived from hidden Markov 
+      models. This allows us to more realistically model the stochastic evolution and
+      partial observability of many complex real-world environments. Within this
+      framework, we propose an efficient and exact algorithm for the inference queries 
+      required to construct generic property checking. We show that the time complexity
+      of this algorithm is on par with other state-of-the-art inference queries for
+      similar frameworks (that is, linear with respect to the time horizon). We also
+      provide considerations on the specific complexity of the probabilistic checking
+      of resilience and its connected properties, with particular focus on resistance. 
+      To demonstrate the flexibility of our approach and to evaluate its performance,
+      we examine it in four qualitative and quantitative example scenarios: (1)
+      disaster management and damage assessment; (2) macroeconomics; (3) self-aware,
+      reconfigurable computing for aerospace applications; and (4) connectivity
+      maintenance in robotic swarms.
+FAU - Panerati, Jacopo
+AU  - Panerati J
+AUID- ORCID: 0000-0003-2994-5422
+AD  - Département de Génie Informatique et Génie Logiciel, Polytechnique Montréal,
+      Montréal, QC, Canada
+FAU - Schwind, Nicolas
+AU  - Schwind N
+AD  - National Institute of Advanced Industrial Science and Technology, Tokyo, Japan
+FAU - Zeltner, Stefan
+AU  - Zeltner S
+AD  - Bloomberg L.P., New York, NY, United States of America
+FAU - Inoue, Katsumi
+AU  - Inoue K
+AD  - National Institute of Informatics, Tokyo, Japan
+FAU - Beltrame, Giovanni
+AU  - Beltrame G
+AUID- ORCID: 0000-0001-9755-8630
+AD  - Département de Génie Informatique et Génie Logiciel, Polytechnique Montréal,
+      Montréal, QC, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20180823
+PHST- 2018/01/18 [received]
+PHST- 2018/08/01 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - PONE-D-18-01894 [pii]
+AID - 10.1371/journal.pone.0202337 [doi]
+SO  - PLoS One. 2018 Aug 23;13(8):. doi:10.1371/journal.pone.0202337.
+
+PMC - PMC5438405
+PMID- 28526850
+IS  - 2045-2322 (Electronic)
+VI  - 7
+DP  - 2017
+TI  - Drought and child mortality: a meta-analysis of small-scale surveys from
+      Ethiopia.
+LID - 2212
+AB  - Despite the intuitive connection between drought and mortality, we still lack a
+      sound quantitative synthesis of evidence drawn from the available data. In this
+      study, we estimate the pooled under-five death rates (U5DR) and assess the effect
+      of drought on child death in Ethiopia. Small-scale mortality surveys were
+      searched from the Complex Emergency Database and then aggregated spatially and
+      temporally with drought exposure data from the Global Drought Monitor and food
+      insecurity data from the Famine Early Warning Systems Network. A Bayesian Poisson
+      meta-analysis was performed on 88 surveys conducted in Ethiopia between 2009 and 
+      2014, consisting of 55,219 under-five children. The pooled U5DR was estimated at 
+      0.323/10,000/day (95% credible interval, CrI: 0.254–0.397), which is below
+      both the emergency and the baseline death rate thresholds of sub-Saharan Africa. 
+      We failed to find a plausible association between drought and U5DR. However,
+      minimal food insecure areas showed elevated U5DR compared to stressed food
+      insecure areas. Furthermore, the U5DR increases as the prevalence of acute
+      malnutrition increases. Targeted interventions to improve the underlying causes
+      of child malnutrition are crucial. Further, revising and updating the existing
+      mortality thresholds, both the baseline and the emergency, is recommended.
+FAU - Delbiso, Tefera Darge
+AU  - Delbiso TD
+AUID- ORCID: 0000-0002-7681-1649
+AD  - 0000 0001 2294 713Xgrid.7942.8Centre for Research on the Epidemiology of
+      Disasters (CRED), Institute of Health and Society, Université catholique de
+      Louvain, Brussels, Belgium
+FAU - Altare, Chiara
+AU  - Altare C
+AD  - 0000 0004 0643 9612grid.452229.aResearch and Analysis Unit, Action Against
+      Hunger, Paris, France
+FAU - Rodriguez-Llanes, Jose Manuel
+AU  - Rodriguez-Llanes JM
+AD  - 0000 0004 1758 4137grid.434554.7Food Security Unit, Sustainable Resources
+      Directorate, European Commission Joint Research Centre, Ispra, Italy
+FAU - Doocy, Shannon
+AU  - Doocy S
+AD  - 0000 0001 2171 9311grid.21107.35Center for Refugee and Disaster Response, Johns
+      Hopkins Bloomberg School of Public Health, Baltimore, USA
+FAU - Guha-Sapir, Debarati
+AU  - Guha-Sapir D
+AD  - 0000 0001 2294 713Xgrid.7942.8Centre for Research on the Epidemiology of
+      Disasters (CRED), Institute of Health and Society, Université catholique de
+      Louvain, Brussels, Belgium
+LA  - eng
+PT  - Journal Article
+DEP - 20170519
+PHST- 2016/12/06 [received]
+PHST- 2017/04/10 [accepted]
+TA  - Sci Rep
+JT  - Scientific Reports
+AID - 2271 [pii]
+AID - 10.1038/s41598-017-02271-5 [doi]
+SO  - Sci Rep. 2017 May 19;7:. doi:10.1038/s41598-017-02271-5.
+
+PMC - PMC6129663
+PMID- 30192662
+IS  - 0090-0036 (Print)
+IS  - 1541-0048 (Electronic)
+VI  - 108
+IP  - Suppl 3
+DP  - 2018 Sep
+TI  - Disaster Response 2.0: Noncommunicable Disease Essential Needs Still Unmet.
+PG  - S202-3
+FAU - Horn, Rebecca B.
+AU  - Horn RB
+FAU - Kirsch, Thomas D.
+AU  - Kirsch TD
+LA  - eng
+PT  - Journal Article
+PT  - Editorial
+DEP - 201809
+PHST- 2018/06/09 [accepted]
+PHST- 2018/09 [aheadofprint]
+TA  - Am J Public Health
+JT  - American Journal of Public Health
+AID - 201823676 [pii]
+AID - 10.2105/AJPH.2018.304604 [doi]
+SO  - Am J Public Health. 2018 Sep;108(Suppl 3):S202-3. Epub 2018 Sep
+      doi:10.2105/AJPH.2018.304604.
+
+PMC - PMC6681888
+PMID- 31392231
+IS  - 2322-2522 (Print)
+IS  - 2322-3960 (Electronic)
+VI  - 7
+IP  - 3
+DP  - 2019 Jul
+TI  - Developing a Model for Hospitals’ Emergency Department Preparedness in Radiation 
+      and Nuclear Incidents and Nuclear Terrorism in Iran.
+PG  - 300-6
+AB  - Objective:: To develop a national model for hospitals’ Emergency Department (ED) 
+      preparedness when facing radiation and nuclear incidents as well as nuclear
+      terrorism in Iran. Methods:: This analytical study was carried out in 2019 via
+      Delphi technique in two rounds and prioritization using a pairwise questionnaire.
+      Using classic Delphi technique and pairwise comparison, the components were given
+      to 32 specialists in emergency medicine, nuclear medicine, medical physics,
+      nuclear physics, radiobiology and radiation protection, health in disaster and
+      emergency, and passive defense. Finally, the national model was developed by
+      holding two focus group sessions. Results:: The results from the two rounds of
+      Delphi technique showed that 31 factors of preparedness were classified into
+      three main classes, namely staff, stuff, and structure (system). Only three
+      factors were excluded and the rest were agreed upon by the specialists. Given the
+      weight of each class, it was found that staff preparedness and stuff preparedness
+      had the highest and lowest priorities, respectively. Conclusion:: Comprehensive
+      preparedness requires enhancing and promoting cultural, social, economic, and
+      political levels. Indeed, all preparedness levels should be promoted in alignment
+      with each other. Hence, governments should align their policies to manage such
+      incidents.
+FAU - Ahmadi Marzaleh, Milad
+AU  - Ahmadi Marzaleh M
+AD  - Student Research Committee, Department of Health in Disasters and Emergencies,
+      Health Human Resources Research Center, School of Management and Medical
+      Informatics, Shiraz University of Medical Sciences, Shiraz, Iran
+FAU - Rezaee, Rita
+AU  - Rezaee R
+AD  - Health Human Resource Development Research Center, Department of Health
+      Information Management,Health Human Resources Research Center, School of
+      Management and Medical Informatics, Shiraz University of Medical Sciences,
+      Shiraz, Iran
+FAU - Rezaianzadeh, Abbas
+AU  - Rezaianzadeh A
+AD  - School of Health, Department of Epidemiology, Shiraz University of Medical
+      Sciences, Shiraz, Iran
+FAU - Rakhshan, Mahnaz
+AU  - Rakhshan M
+AD  - Department of Nursing, School of Nursing and Midwifery, Shiraz University of
+      Medical Sciences, Shiraz, Iran
+FAU - Haddadi, Gholamhassan
+AU  - Haddadi G
+AD  - School of Paramedical, Department of Radiology, Shiraz University of Medical
+      Sciences, Shiraz, Iran
+FAU - Peyravi, Mahmoudreza
+AU  - Peyravi M
+AD  - Department of Health in Disasters and Emergencies, Health Human Resources
+      Research Center, School of Management and Medical Informatics, Shiraz University 
+      of Medical Sciences, Shiraz, Iran
+LA  - eng
+PT  - Journal Article
+PHST- 2019/03/10 [received]
+PHST- 2019/05/17 [revised]
+PHST- 2019/05/22 [accepted]
+TA  - Bull Emerg Trauma
+JT  - Bulletin of Emergency & Trauma
+AID - 10.29252/beat-0703014 [doi]
+SO  - Bull Emerg Trauma. 2019 Jul;7(3):300-6. doi:10.29252/beat-0703014.
+
+PMC - PMC6313413
+PMID- 30501027
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 12
+DP  - 2018 Dec
+TI  - Health Consequences of an Armed Conflict in Zamboanga, Philippines Using a
+      Syndromic Surveillance Database.
+LID - 2690
+AB  - The Zamboanga armed conflict was a 19-day long encounter in the Philippines in
+      2013 that displaced 119,000 people from their homes. This study describes the
+      health consequences of this complex emergency in different age groups, time
+      periods, and health facilities using data from Surveillance in Post Extreme
+      Emergencies and Disasters (SPEED). This is a descriptive study of the SPEED
+      database spanning 196 days of observation post-disaster and 1065 SPEED reports
+      from 49 health facilities. Evacuation centers and village health centers, both
+      primary care facilities, had the highest number of consults. Common infections
+      and noncommunicable diseases were the most common reasons for consultations,
+      namely, acute respiratory infections, fever, watery diarrhea, skin disease, and
+      hypertension. Infections can be associated with environmental conditions in
+      displaced populations, while hypertension has a high prevalence in the country
+      and implies long-term care. Conflict-related injuries and deaths were not
+      frequently observed due to the volatile situation that influenced health-seeking 
+      behavior as well as possible reporting gaps. In conclusion, in complex
+      emergencies, as in natural disasters, wherein early alert and warning for
+      potential outbreaks is crucial, SPEED can assist decision makers on response and 
+      recovery interventions. Linkages between SPEED and other surveillance and
+      reporting systems need to be explored.
+FAU - Salazar, Miguel Antonio
+AU  - Salazar MA
+AUID- ORCID: https://orcid.org/0000-0003-1129-6508
+AD  - Institute of Global Health, University of Heidelberg, Im Neuenheimer Feld 324,
+      69120 Heidelberg, Germany
+FAU - Law, Ronald
+AU  - Law R
+AD  - Department of Health, Health Emergency Management Bureau, Sta. Cruz, Manila 1003,
+      Philippines; rplaw@doh.gov.ph
+FAU - Winkler, Volker
+AU  - Winkler V
+AD  - Institute of Global Health, University of Heidelberg, Im Neuenheimer Feld 324,
+      69120 Heidelberg, Germany
+LA  - eng
+PT  - Journal Article
+DEP - 20181129
+PHST- 2018/11/03 [received]
+PHST- 2018/11/26 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15122690 [doi]
+AID - ijerph-15-02690 [pii]
+SO  - Int J Environ Res Public Health. 2018 Dec;15(12):. Epub 2018 Nov 29
+      doi:10.3390/ijerph15122690.
+
+PMC - PMC6377524
+PMID- 30739080
+IS  - 2044-6055 (Electronic)
+VI  - 9
+IP  - 2
+DP  - 2019
+TI  - Change of access to emergency care in a repopulated village after the 2011
+      Fukushima nuclear disaster: a retrospective observational study.
+LID - e023836
+AB  - Objectives: Sustaining emergency care access is of great concern. The aim of this
+      study is to evaluate access to emergency care in a repopulated village following 
+      the 2011 Fukushima disaster. Design: This research was a retrospective
+      observational study. The primary outcome measure was total emergency medical
+      services (EMS) time. A Bayesian time series analysis was performed to consider
+      local time series trend and seasonality. Setting: The residents in Kawauchi
+      Village, Fukushima, Japan were forced to evacuate after the 2011 Fukushima
+      disaster. As the radiation dose was an acceptable level, the residents began the 
+      process of repopulation in April 2012. Participants: This study included patients
+      transported by EMS from January 2009 to October 2015. Patients transported during
+      the evacuation period (from March 2011 to March 2012) were excluded. Results: A
+      total of 781 patients were transferred by EMS (281 patients before the disaster, 
+      416 after repopulation and 84 during the evacuation period). A Bayesian time
+      series analysis revealed an increase in total EMS time, from the first request
+      call to arrival at a hospital of 21.85 min (95% credible interval 14.2–29.0,
+      Bayesian one-sided tail-area probability p=0.001). After the disaster, 42.3% of
+      patients were transported to a partner hospital. Conclusions: Total EMS time
+      increased after repopulation of the area affected because of a massive number of 
+      hospital closures. Proactive partnerships would be a possible countermeasure in
+      the affected areas after a major disaster.
+FAU - Nishikawa, Yoshitaka
+AU  - Nishikawa Y
+AUID- ORCID: 0000-0003-3313-1990
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Kyoto, Japan
+FAU - Tsubokura, Masaharu
+AU  - Tsubokura M
+AUID- ORCID: 0000-0001-8027-202X
+AD  - Department of Internal Medicine, Hirata Central Hospital, Ishikawa-gun,
+      Fukushima, Japan
+FAU - Takahashi, Yoshimitsu
+AU  - Takahashi Y
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Kyoto, Japan
+FAU - Nomura, Shuhei
+AU  - Nomura S
+AD  - Research Center for Community Health, Minamisoma Municipal General Hospital,
+      Minamisoma, Fukushima, Japan
+FAU - Ozaki, Akihiko
+AU  - Ozaki A
+AD  - Research Center for Community Health, Minamisoma Municipal General Hospital,
+      Minamisoma, Fukushima, Japan
+FAU - Kimura, Yuko
+AU  - Kimura Y
+AD  - Department of Internal Medicine, Kawauchi Village National Health Insurance
+      Clinic, Futaba-gun, Fukushima, Japan
+FAU - Morita, Tomohiro
+AU  - Morita T
+AD  - Department of Internal Medicine, Soma Central Hospital, Soma, Fukushima, Japan
+FAU - Sawano, Toyoaki
+AU  - Sawano T
+AD  - Department of Public Health, Fukushima Medical University School of Medicine,
+      Fukushima, Fukushima, Japan
+FAU - Oikawa, Tomoyoshi
+AU  - Oikawa T
+AD  - Department of Neurosurgery, Minamisoma Municipal General Hospital, Minamisoma,
+      Fukushima, Japan
+FAU - Nakayama, Takeo
+AU  - Nakayama T
+AD  - Department of Health Informatics, Kyoto University School of Public Health,
+      Kyoto, Kyoto, Japan
+LA  - eng
+PT  - Journal Article
+DEP - 20190209
+PHST- 2018/04/27 [received]
+PHST- 2018/12/10 [revised]
+PHST- 2018/12/20 [accepted]
+TA  - BMJ Open
+JT  - BMJ Open
+AID - bmjopen-2018-023836 [pii]
+AID - 10.1136/bmjopen-2018-023836 [doi]
+SO  - BMJ Open. 2019 Feb 9;9(2):. doi:10.1136/bmjopen-2018-023836.
+
+PMC - PMC6427494
+PMID- 30866451
+IS  - 1424-8220 (Electronic)
+VI  - 19
+IP  - 5
+DP  - 2019 Mar
+TI  - An Emergency Response System: Construction, Validation, and Experiments for
+      Disaster Management in a Vehicular Environment.
+LID - 1150
+AB  - Natural disasters and catastrophes not only cost the loss of human lives, but
+      adversely affect the progress toward sustainable development of the country. As
+      soon as disaster strikes, the first and foremost challenge for the concerned
+      authorities is to make an expeditious response. Consequently, they need to be
+      highly-organized, properly-trained, and sufficiently-equipped to effectively
+      respond and limit the destructive effects of a disaster. In such circumstances,
+      communication plays a vital role, whereby the consequences of tasks assigned to
+      the workers for rescue and relief services may be streamlined by relaying
+      necessary information among themselves. Moreover, most of the infrastructure is
+      either severely damaged or completely destroyed in post-disaster scenarios;
+      therefore, a Vehicular Ad Hoc Network (VANET) is used to carry out the rescue
+      operation, as it does not require any pre-existing infrastructure. In this
+      context, the current work proposes and validates an effective way to relay the
+      crucial information through the development of an application and the deployment 
+      of an experimental TestBed in a vehicular environment. The TestBed may able to
+      provide a way to design and validate the algorithms. It provides a number of
+      vehicles with onboard units embedded with a credit-card-size microcomputer called
+      Raspberry Pi and a Global Positioning System (GPS) module. Additionally, it
+      dispatches one of the pre-defined codes of emergency messages based on the level 
+      of urgency through multiple hops to a central control room. Depending on the
+      message code received from a client, the server takes appropriate action.
+      Furthermore, the solution also provides a graphical interface that is easy to
+      interpret and to understand at the control room to visualize the rescue operation
+      on the fly.
+FAU - Khaliq, Kishwer Abdul
+AU  - Khaliq KA
+AUID- ORCID: https://orcid.org/0000-0003-3582-9313
+AD  - Department of Production Engineering, University of Bremen, 28539 Bremen, Germany
+FAU - Chughtai, Omer
+AU  - Chughtai O
+AUID- ORCID: https://orcid.org/0000-0002-5701-7394
+AD  - Department of Electrical and Computer Engineering, COMSATS University Islamabad, 
+      Wah Campus, Islamabad 45550, Pakistan; umer@ciitwah.edu.pk
+FAU - Shahwani, Abdullah
+AU  - Shahwani A
+AD  - Department of Physics and Electrical Engineering, University of Bremen, 28359
+      Bremen, Germany; shahwani@uni-bremen.de
+FAU - Qayyum, Amir
+AU  - Qayyum A
+AD  - Faculty of Engineering, Capital University of Science and Technology Islamabad,
+      Islamabad 44000, Pakistan ; aqayyum@ieee.org
+FAU - Pannek, Jürgen
+AU  - Pannek J
+AD  - BIBA-Bremer Institut für Produktion und Logistik GmbH, Hochschulring 20, 28359
+      Bremen, Germany; pan@biba.uni-bremen.de
+LA  - eng
+PT  - Journal Article
+DEP - 20190307
+PHST- 2019/01/31 [received]
+PHST- 2019/02/27 [accepted]
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+AID - 10.3390/s19051150 [doi]
+AID - sensors-19-01150 [pii]
+SO  - Sensors (Basel). 2019 Mar 07;19(5):. doi:10.3390/s19051150.
+
+PMC - PMC6025408
+PMID- 29903997
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 15
+IP  - 6
+DP  - 2018 Jun
+TI  - Urban Resources Selection and Allocation for Emergency Shelters: In a
+      Multi-Hazard Environment.
+LID - 1261
+AB  - This study explores how emergency shelters can adapt to a multi-hazard
+      environment by geographic information system (GIS) and takes Guangzhou as a case 
+      for analysis. The physical suitability of the overall urban resources was first
+      assessed by aiming to select the suitable resources and safe locations for
+      emergency shelters in the context of multiple disasters. Afterward, by analyzing 
+      the scale and spatial distribution of affected areas and populations under
+      different types of disaster scenarios, the demand for different kinds of shelters
+      were predicted. Lastly, taking into account the coverage of the affected people, 
+      shelters were allocated according to different conditions in the districts. This 
+      work will hopefully provide a reference for the construction of emergency
+      shelters and help form emergency operations in order to mitigate the impact of
+      hazards. The issues identified in the study need to be further studied in medium 
+      or small-scale cities.
+FAU - Chen, Wei
+AU  - Chen W
+AD  - School of Geographic and Oceanographic Sciences, Nanjing University, Nanjing
+      210046, China; chenw.nju@gmail.com (W.C.); zhangjxnju@hotmail.com (J.Z.)
+FAU - Zhai, Guofang
+AU  - Zhai G
+AD  - School of Architecture and Urban Planning, Nanjing University, Nanjing 210093,
+      China; yijun_shi@smail.nju.edu.cn
+FAU - Ren, Chongqiang
+AU  - Ren C
+AD  - College of Economics, Northwest Minzu University, Lanzhou 730030, China;
+      rcq518@163.com
+FAU - Shi, Yijun
+AU  - Shi Y
+AUID- ORCID: https://orcid.org/0000-0003-3099-4379
+AD  - School of Architecture and Urban Planning, Nanjing University, Nanjing 210093,
+      China; yijun_shi@smail.nju.edu.cn
+FAU - Zhang, Jianxin
+AU  - Zhang J
+AD  - School of Geographic and Oceanographic Sciences, Nanjing University, Nanjing
+      210046, China; chenw.nju@gmail.com (W.C.); zhangjxnju@hotmail.com (J.Z.)
+LA  - eng
+PT  - Journal Article
+DEP - 20180614
+PHST- 2018/04/19 [received]
+PHST- 2018/06/12 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph15061261 [doi]
+AID - ijerph-15-01261 [pii]
+SO  - Int J Environ Res Public Health. 2018 Jun;15(6):. Epub 2018 Jun 14
+      doi:10.3390/ijerph15061261.
+
+PMC - PMC6353171
+PMID- 30699171
+IS  - 1932-6203 (Electronic)
+VI  - 14
+IP  - 1
+DP  - 2019
+TI  - Vulnerability of cotton subjected to hail damage.
+LID - e0210787
+AB  - This paper establishes the quantitative relationships between hail fall
+      parameters and crop damages by examining the impacts of 49 hail hazard scenarios 
+      on cotton in the bud stage and boll stage. This study utilizes simulated cotton
+      hail hazard to analyze the following data: hail size, hail fall density, and crop
+      damages (i.e., defoliation rate, branch breaking rate, and the fruit falling
+      rate). The results are as follows: 1) cotton vulnerability increased via an
+      increase in crop damages as the hail hazard magnitude increased; 2) crop damages 
+      exhibit significant logistic relationships with hail diameter and hail fall
+      density, and the fit was better at the bud stage than at the boll stage; 3)
+      cotton is more vulnerable to hail hazard at the bud stage than at the boll stage,
+      and the bud stage is a critical period for cotton hail disaster prevention and
+      mitigation; and 4) damages to cotton plant at the bud stage and boll stage were
+      less sensitive to hail size from hail fall density. Thus, we suggest that hail
+      diameter can be used as the priority indicator to predict hail-induced crop
+      damages. These results provide a sound basis for developing a comprehensive
+      evaluation of hail damage in cotton, which is crucial for promoting sustainable
+      cotton production. We recommend that the impacts of hail-induced crop damages on 
+      yield and fiber quality need to be addressed further in future studies.
+FAU - Yue, Yaojie
+AU  - Yue Y
+AUID- ORCID: 0000-0001-5198-1281
+AD  - Key Laboratory of Environmental Change and Natural Disaster of Ministry of
+      Education; School of Geography, Faculty of Geographical Science, Beijing Normal
+      University, Beijing, China
+FAU - Zhou, Lan
+AU  - Zhou L
+AD  - Jiangxia Jinkou High School, Wuhan, China
+FAU - Zhu, A-xing
+AU  - Zhu Ax
+AD  - Department of Geography, University of Wisconsin-Madison, Madison, Wisconsin,
+      United States of America
+FAU - Ye, Xinyue
+AU  - Ye X
+AD  - Urban Informatics & Spatial Computing Lab, Department of Informatics, New Jersey 
+      Institute of Technology, Newark, United States of America
+LA  - eng
+PT  - Journal Article
+DEP - 20190130
+GR  - 41271515
+PHST- 2018/03/19 [received]
+PHST- 2019/01/02 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0210787 [doi]
+AID - PONE-D-18-08387 [pii]
+SO  - PLoS One. 2019 Jan 30;14(1):. doi:10.1371/journal.pone.0210787.
+
+PMC - PMC6748810
+PMID- 31246255
+IS  - 1067-5027 (Print)
+IS  - 1527-974X (Electronic)
+VI  - 26
+IP  - 10
+DP  - 2019 Oct
+TI  - Designing and executing a functional exercise to test a novel informatics tool
+      for mass casualty triage.
+PG  - 1091-8
+AB  - Objective: The testing of informatics tools designed for use during mass casualty
+      incidents presents a unique problem as there is no readily available population
+      of victims or identical exposure setting. The purpose of this article is to
+      describe the process of designing, planning, and executing a functional exercise 
+      to accomplish the research objective of validating an informatics tool
+      specifically designed to identify and triage victims of irritant gas syndrome
+      agents. Materials and Methods: During a 3-year time frame, the research team and 
+      partners developed the Emergency Department Informatics Computational Tool and
+      planned a functional exercise to test it using medical records data from 298
+      patients seen in 1 emergency department following a chlorine gas exposure in
+      2005. Results: The research team learned valuable lessons throughout the planning
+      process that will assist future researchers with developing a functional exercise
+      to test informatics tools. Key considerations for a functional exercise include
+      contributors, venue, and information technology needs (ie, hardware, software,
+      and data collection methods). Discussion: Due to the nature of mass casualty
+      incidents, testing informatics tools and technology for these incidents is
+      challenging. Previous studies have shown a functional exercise as a viable option
+      to test informatics tools developed for use during mass casualty incidents.
+      Conclusion: Utilizing a functional exercise to test new mass casualty management 
+      technology and informatics tools involves a painstaking and complex planning
+      process; however, it does allow researchers to address issues inherent in
+      studying informatics tools for mas casualty incidents.
+FAU - Donevant, Sara B
+AU  - Donevant SB
+AUID- ORCID: 0000-0003-1446-4706
+AD  - College of Nursing University of South Carolina, Columbia, South Carolina, USA
+FAU - Svendsen, Erik R
+AU  - Svendsen ER
+AD  - Medical University of South Carolina, Charleston, South Carolina, USA
+FAU - Richter, Jane V
+AU  - Richter JV
+AD  - College of Nursing University of South Carolina, Columbia, South Carolina, USA
+FAU - Tavakoli, Abbas S
+AU  - Tavakoli AS
+AD  - College of Nursing University of South Carolina, Columbia, South Carolina, USA
+FAU - Craig, Jean B r
+AU  - Craig JBr
+AD  - Office of Biomedical Informatics Center Medical University of South Carolina,
+      Charleston, South Carolina, USA
+FAU - Boltin, Nicholas D
+AU  - Boltin ND
+AD  - College of Engineering and Computing University of South Carolina, Columbia,
+      South Carolina, USA
+FAU - Valafar, Homayoun
+AU  - Valafar H
+AD  - College of Engineering and Computing University of South Carolina, Columbia,
+      South Carolina, USA
+FAU - DiNardi, Salvatore Robert
+AU  - DiNardi SR
+AD  - College of Nursing University of South Carolina, Columbia, South Carolina, USA
+FAU - Culley, Joan M
+AU  - Culley JM
+AD  - College of Nursing University of South Carolina, Columbia, South Carolina, USA
+LA  - eng
+PT  - Journal Article
+DEP - 20190627
+GR  - 1R01LM011648
+PHST- 2019/01/29 [received]
+PHST- 2019/05/07 [revised]
+PHST- 2019/05/14 [accepted]
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+AID - 10.1093/jamia/ocz087 [doi]
+AID - ocz087 [pii]
+SO  - J Am Med Inform Assoc. 2019 Jun 27;26(10):1091-8. doi:10.1093/jamia/ocz087.
+
+PMC - PMC5594403
+PMID- 28892443
+IS  - 0090-0036 (Print)
+IS  - 1541-0048 (Electronic)
+VI  - 107
+IP  - Suppl 2
+DP  - 2017 Sep
+TI  - Promoting Community Preparedness and Resilience: A Latino Immigrant
+      Community–Driven Project Following Hurricane Sandy.
+PG  - S161-4
+AB  - As community residents and recovery workers, Latino immigrants play important
+      roles after disasters, yet are rarely included in preparedness planning. A
+      community–university–labor union partnership created a demonstration project
+      after Hurricane Sandy to strengthen connections to disaster preparedness systems 
+      to increase community resilience among Latino immigrant communities in New York
+      and New Jersey. Building ongoing ties that connect workers and community-based
+      organizations with local disaster preparedness systems provided mutual benefits
+      to disaster planners and local immigrant communities, and also had an impact on
+      national disaster-related initiatives.
+FAU - Cuervo, Isabel
+AU  - Cuervo I
+FAU - Leopold, Les
+AU  - Leopold L
+FAU - Baron, Sherry
+AU  - Baron S
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 201709
+PHST- 2017/07/13 [accepted]
+PHST- 2017/09 [aheadofprint]
+TA  - Am J Public Health
+JT  - American Journal of Public Health
+AID - 201719183 [pii]
+AID - 10.2105/AJPH.2017.304053 [doi]
+SO  - Am J Public Health. 2017 Sep;107(Suppl 2):S161-4. Epub 2017 Sep
+      doi:10.2105/AJPH.2017.304053.
+
+PMC - PMC6717419
+PMID- 31523655
+IS  - 2251-6085 (Print)
+IS  - 2251-6093 (Electronic)
+VI  - 48
+IP  - 5
+DP  - 2019 May
+TI  - An Overview of the Strengths and Challenges Related to Health on the First 10
+      Days after the Large Earthquake in the West of Iran, 2017.
+PG  - 963-70
+AB  - Background:: The objective of the present study was to investigate the strength
+      and weaknesses of healthcare management during the first 10 days after the
+      earthquake in Sarpol-e Zahab in Kermanshah, Iran. Methods:: This qualitative,
+      observational study was conducted on November 13–23, 2017 in the disaster area,
+      by using content analysis. Data was collected through experts and focus group
+      interviews with professional and healthcare staff, and policy-makers. Results::
+      Our findings were categorized into 7 major groups; environmental health; mental
+      health; mothers, infants and children’s health; field hospital; nutrition;
+      contagious diseases; drug delivery. There were good cooperation and coordination 
+      regarding environmental health issues. However, other categories were handled by 
+      different organizations and resulted in a chaotic situation. Conclusion:: The
+      post-earthquake period is overwhelmed with considerable issues regarding the care
+      of victims and therapeutic measures. Lack of quick, reliable, and appropriate
+      management will result in extensive health issues, including epidemic, worsening 
+      of chronic diseases, and exacerbation of mental disorders.
+FAU - PEYRAVI, Mahmoudreza
+AU  - PEYRAVI M
+AD  - Department of Health in Disasters and Emergencies, Health Human Resources
+      Research Center, School of Management and Medical Informatics, Shiraz University 
+      of Medical Sciences, Shiraz, Iran
+FAU - AHMADI MARZALEH, Milad
+AU  - AHMADI MARZALEH M
+AD  - Department of Health in Disasters and Emergencies, Health Human Resources
+      Research Center, School of Management and Medical Informatics, Shiraz University 
+      of Medical Sciences, Shiraz, Iran
+FAU - KHORRAM-MANESH, Amir
+AU  - KHORRAM-MANESH A
+AD  - Department of Surgery, Institute of Clinical Sciences, Sahlgrenska Academy,
+      University of Gothenburg, Gothenburg, Sweden
+LA  - eng
+PT  - Journal Article
+PHST- 2018/10/12 [received]
+PHST- 2018/12/17 [accepted]
+TA  - Iran J Public Health
+JT  - Iranian Journal of Public Health
+AID - ijph-48-963 [pii]
+SO  - Iran J Public Health. 2019 May;48(5):963-70.
+
+PMC - PMC5590741
+PMID- 28886038
+IS  - 1932-6203 (Electronic)
+VI  - 12
+IP  - 9
+DP  - 2017
+TI  - Diagnoses, infections and injuries in Northern Syrian children during the civil
+      war: A cross-sectional study.
+LID - e0182770
+AB  - Background: The civil war in Syria including the deliberate targeting of
+      healthcare services resulted in a complex humanitarian emergency, seriously
+      affecting children's health. The objectives of this study are to document
+      diagnoses and disease categories in Northern Syrian children after four years of 
+      conflict, and to document infectious diseases and injuries in this vulnerable
+      population. Methods: In a prospective cross-sectional observational sample study 
+      conducted in May 2015, healthcare workers registered demographics, comorbidities,
+      and diagnoses (categorised according to the International Classification of
+      Diseases version 10) in children visited at home and in internally displaced
+      persons camps in four Syrian governorates. Results: Of 1080 filled-out records,
+      1002 were included. Children originated from Aleppo (41%), Idleb (36%), Hamah
+      (15%) and Lattakia (8%). Median age was 6 years (0–15; IQR 3–11), 61% were boys, 
+      40% were younger than 5 years old. Children suffered from respiratory (29%),
+      neurological (19%), digestive (17%), eye (5%) and skin (5%) diseases. Clinical
+      malnutrition was seen in 4%, accidental injury in 3%, intentional injury in 1%,
+      and mental disorders in 2%. Overall, 64% had features of infectious diseases (OR 
+      0.635; CI 0.605–0.665). Most common comorbidities were chronic respiratory
+      diseases (14, malnutrition (5%), acute flaccid paralysis (5%), and epilepsy (4%).
+      Logistic regression analysis indicated that the risk for children to have
+      communicable diseases was higher in Aleppo than in Idleb (OR 1.7; CI 1.2–2.3),
+      Hamah (OR 4.9; CI 3.3–7.5), or Lattakia (OR 5.5; CI 3.3–9.3). Children in Aleppo 
+      and Lattakia were more at risk to be injured than in Idleb (OR 5.6; CI 2.1–14.3),
+      or in Hamah (OR 5.9; CI 1.4–25.6), but more often from intentional violence in
+      Lattakia. Mental problems were more prominent in Hamah. Conclusions: Four years
+      far in the conflict, 64% of the studied children in four Northern Syrian
+      governorates suffer from infections, mostly from respiratory, neurological and
+      digestive origin, while 4% was injured or victim of intentional aggression.
+      Substandard living conditions and the lack of paediatric healthcare put Syrian
+      children at risk for serious infections, epidemics and morbidity, and ask for
+      urgent international humanitarian relief efforts.
+FAU - van Berlaer, Gerlant
+AU  - van Berlaer G
+AUID- ORCID: 0000-0003-3674-9083
+AD  - Department of Emergency Medicine, Universitair Ziekenhuis Brussel, Brussels,
+      Belgium
+FAU - Elsafti, Abdallah Mohamed
+AU  - Elsafti AM
+AD  - Department of Emergency Medicine, Hamad Medical Corporation, Doha, Qatar
+FAU - Al Safadi, Mohammad
+AU  - Al Safadi M
+AD  - Qatar Red Crescent, Medical Office for Turkey and Syria, Turkey Mission, Doha,
+      Qatar
+FAU - Souhil Saeed, Saad
+AU  - Souhil Saeed S
+AD  - Department of Paediatric Cardiology, Hamad General Hospital, Doha, Qatar
+FAU - Buyl, Ronald
+AU  - Buyl R
+AD  - Department of Public Health, Biostatistics and Medical Informatics Research
+      Group, Vrije Universiteit Brussel, Brussels, Belgium
+FAU - Debacker, Michel
+AU  - Debacker M
+AD  - Department of Emergency Medicine, Universitair Ziekenhuis Brussel, Brussels,
+      Belgium
+FAU - Redwan, Atef
+AU  - Redwan A
+AD  - Department of Critical Care, Faculty of Medicine, Zagazig University, Zagazig,
+      Egypt
+FAU - Hubloue, Ives
+AU  - Hubloue I
+AD  - Department of Emergency Medicine, Universitair Ziekenhuis Brussel, Brussels,
+      Belgium
+LA  - eng
+PT  - Journal Article
+DEP - 20170908
+PHST- 2017/01/16 [received]
+PHST- 2017/07/23 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0182770 [doi]
+AID - PONE-D-17-02067 [pii]
+SO  - PLoS One. 2017 Sep 8;12(9):. doi:10.1371/journal.pone.0182770.
+
+PMC - PMC6480402
+PMID- 30987027
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Electronic)
+VI  - 16
+IP  - 7
+DP  - 2019 Apr
+TI  - Design of Temperature Insurance Index and Risk Zonation for Single-Season Rice in
+      Response to High-Temperature and Low-Temperature Damage: A Case Study of Jiangsu 
+      Province, China.
+LID - 1187
+AB  - Disaster insurance is an important tool for achieving sustainable development in 
+      modern agriculture. However, in China, the design of such insurance indexes is
+      far from sufficient. In this paper, the single-season rice in Jiangsu Province of
+      China is taken as an example to design the high-temperature damage index in
+      summer and the low-temperature damage index in autumn to construct the formula
+      calculating the weather output and single-season rice yield reduction. The daily 
+      highest, lowest and average temperatures between 1999 and 2015 are selected as
+      main variables for the temperature disaster index to quantitatively analyze the
+      relationship between the temperature index and the yield reduction rate of the
+      single-season rice. The temperature disaster index can be put into the relevant
+      model to obtain the yield reduction rate of the year and determine whether to pay
+      the indemnity. Then, the burn analysis is used to determine the insurance premium
+      rate for all cities in Jiangsu Province under four-level deductibles, and the
+      insurance premium rate can be used for the risk division of the Province. The
+      research provides some insights for the design of agricultural weather insurance 
+      products, and the empirical results provide a reference for the design of similar
+      single-season rice temperature index insurance products.
+FAU - Guo, Ji
+AU  - Guo J
+AD  - School of Economics and Management, Shanghai Maritime University, Shanghai
+      201306, China; 185391@shmtu.edu.cn (J.G.); 15605192693@163.com (J.J.)
+FAU - Jin, Jiajia
+AU  - Jin J
+AD  - School of Economics and Management, Shanghai Maritime University, Shanghai
+      201306, China; 185391@shmtu.edu.cn (J.G.); 15605192693@163.com (J.J.)
+FAU - Tang, Yinshan
+AU  - Tang Y
+AD  - Business Informatics Systems and Accounting, Henley Business School, University
+      of Reading, Reading RG6 6UD, UK; y.tang@henley.ac.uk
+FAU - Wu, Xianhua
+AU  - Wu X
+AUID- ORCID: https://orcid.org/0000-0001-6659-2262
+AD  - School of Economics and Management, Shanghai Maritime University, Shanghai
+      201306, China; 185391@shmtu.edu.cn (J.G.); 15605192693@163.com (J.J.)
+LA  - eng
+PT  - Journal Article
+DEP - 20190402
+PHST- 2019/02/26 [received]
+PHST- 2019/03/29 [accepted]
+TA  - Int J Environ Res Public Health
+JT  - International Journal of Environmental Research and Public Health
+AID - 10.3390/ijerph16071187 [doi]
+AID - ijerph-16-01187 [pii]
+SO  - Int J Environ Res Public Health. 2019 Apr;16(7):. Epub 2019 Apr 02
